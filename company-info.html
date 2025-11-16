@@ -8,6 +8,7 @@
     <title>Thông Tin Doanh Nghiệp - Quốc Khánh Uniform | MST 0108735264</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="canonical" href="https://quockhanhuniform.com/company-info.html">
+    <script src="js/i18n.js" defer></script>
     
     <!-- Structured Data JSON-LD -->
     <script type="application/ld+json">
@@ -114,26 +115,26 @@
         <div class="container">
             <div class="header-top">
                 <div class="logo">
-                    <h1>QUỐC KHÁNH UNIFORM</h1>
-                    <p class="tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
+                    <h1 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h1>
+                    <p class="tagline" data-i18n="common.tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
                 </div>
                 <div class="header-contact">
-                    <a href="tel:0366333168" class="phone-link">📞 0366 333 168</a>
-                    <a href="contact.html" class="btn btn-primary">Liên hệ ngay</a>
+                    <a href="tel:0366333168" class="phone-link">📞 <span data-i18n="common.phone">0366 333 168</span></a>
+                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
                 </div>
             </div>
             <nav class="navbar">
                 <ul class="nav-menu">
-                    <li><a href="index.html">Trang chủ</a></li>
-                    <li><a href="about.html">Giới thiệu</a></li>
-                    <li><a href="services.html">Dịch vụ</a></li>
-                    <li><a href="process.html">Quy trình</a></li>
-                    <li><a href="portfolio.html">Dự án</a></li>
-                    <li><a href="news.html">Tin tức</a></li>
-                    <li><a href="policies.html">Chính sách</a></li>
-                    <li><a href="contact.html">Liên hệ</a></li>
+                    <li><a href="index.html" data-i18n="common.nav.home">Trang chủ</a></li>
+                    <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
+                    <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
+                    <li><a href="process.html" data-i18n="common.nav.process">Quy trình</a></li>
+                    <li><a href="portfolio.html" data-i18n="common.nav.portfolio">Dự án</a></li>
+                    <li><a href="news.html" data-i18n="common.nav.news">Tin tức</a></li>
+                    <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
+                    <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                 </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
             </nav>
         </div>
     </header>
@@ -141,8 +142,8 @@
     <!-- Page Header -->
     <section class="page-header">
         <div class="container">
-            <h1>Thông Tin Doanh Nghiệp</h1>
-            <p>Thông tin đăng ký kinh doanh và pháp lý</p>
+            <h1 data-i18n="companyInfo.pageTitle">Thông Tin Doanh Nghiệp</h1>
+            <p data-i18n="companyInfo.pageSubtitle">Thông tin đăng ký kinh doanh và pháp lý</p>
         </div>
     </section>
 
@@ -150,8 +151,8 @@
     <nav class="breadcrumb">
         <div class="container">
             <ul>
-                <li><a href="index.html">Trang chủ</a></li>
-                <li>Thông tin doanh nghiệp</li>
+                <li><a href="index.html" data-i18n="common.breadcrumb.home">Trang chủ</a></li>
+                <li data-i18n="companyInfo.breadcrumb">Thông tin doanh nghiệp</li>
             </ul>
         </div>
     </nav>
@@ -160,80 +161,80 @@
     <section class="content-section">
         <div class="container">
             <div class="company-info-card">
-                <h2>Thông Tin Đăng Ký Kinh Doanh</h2>
+                <h2 data-i18n="companyInfo.businessInfo.title">Thông Tin Đăng Ký Kinh Doanh</h2>
                 
                 <div class="info-row">
-                    <div class="info-label">Tên công ty (Tiếng Việt):</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.nameVi">Tên công ty (Tiếng Việt):</div>
                     <div class="info-value">
                         <strong>CÔNG TY TNHH QUỐC KHÁNH UNIFORM VIỆT NAM</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Tên công ty (Tiếng Anh):</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.nameEn">Tên công ty (Tiếng Anh):</div>
                     <div class="info-value">
                         <strong>QUOC KHANH UNIFORM VIET NAM COMPANY LIMITED</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Tên viết tắt:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.abbreviation">Tên viết tắt:</div>
                     <div class="info-value">
                         <strong>QUOC KHANH UNIFORM CO., LTD</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Mã số thuế (MST):</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.taxId">Mã số thuế (MST):</div>
                     <div class="info-value">
                         <strong>0108735264</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Ngày hoạt động:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.activityDate">Ngày hoạt động:</div>
                     <div class="info-value">
                         <strong>10/05/2019</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Tình trạng doanh nghiệp:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.status">Tình trạng doanh nghiệp:</div>
                     <div class="info-value">
-                        <strong style="color: var(--success-color);">Đang hoạt động</strong>
+                        <strong style="color: var(--success-color);" data-i18n="companyInfo.businessInfo.statusActive">Đang hoạt động</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Quản lý bởi:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.managedBy">Quản lý bởi:</div>
                     <div class="info-value">
                         Thuế cơ sở 11 thành phố Hà Nội
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Địa chỉ thuế:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.taxAddress">Địa chỉ thuế:</div>
                     <div class="info-value">
                         Số 3, Tổ 4, Phường Phúc Lợi, TP Hà Nội, Việt Nam
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Địa chỉ trụ sở:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.headquarters">Địa chỉ trụ sở:</div>
                     <div class="info-value">
                         <strong>Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội, Việt Nam</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Điện thoại:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.phone">Điện thoại:</div>
                     <div class="info-value">
                         <strong><a href="tel:0366333168">0366 333 168</a></strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Email:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessInfo.labels.email">Email:</div>
                     <div class="info-value">
                         <a href="mailto:info@quockhanhuniform.com">info@quockhanhuniform.com</a>
                     </div>
@@ -241,56 +242,56 @@
             </div>
 
             <div class="company-info-card" style="margin-top: 40px;">
-                <h2>Thông Tin Ngành Nghề Kinh Doanh</h2>
+                <h2 data-i18n="companyInfo.businessActivities.title">Thông Tin Ngành Nghề Kinh Doanh</h2>
                 
                 <div class="info-row">
-                    <div class="info-label">Ngành nghề chính:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessActivities.mainIndustry.label">Ngành nghề chính:</div>
                     <div class="info-value">
-                        <strong>May trang phục (trừ trang phục từ da lông thú)</strong>
+                        <strong data-i18n="companyInfo.businessActivities.mainIndustry.value">May trang phục (trừ trang phục từ da lông thú)</strong>
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Lĩnh vực hoạt động:</div>
+                    <div class="info-label" data-i18n="companyInfo.businessActivities.activityAreas.label">Lĩnh vực hoạt động:</div>
                     <div class="info-value">
                         <ul style="margin-left: 20px; margin-top: 10px;">
-                            <li>Sản xuất đồng phục công ty</li>
-                            <li>Sản xuất đồng phục học sinh</li>
-                            <li>Sản xuất đồng phục bảo hộ lao động</li>
-                            <li>Sản xuất đồng phục nhà hàng – khách sạn</li>
-                            <li>Thiết kế đồng phục</li>
-                            <li>Gia công đồng phục</li>
-                            <li>In và thêu logo trên đồng phục</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.0">Sản xuất đồng phục công ty</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.1">Sản xuất đồng phục học sinh</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.2">Sản xuất đồng phục bảo hộ lao động</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.3">Sản xuất đồng phục nhà hàng – khách sạn</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.4">Thiết kế đồng phục</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.5">Gia công đồng phục</li>
+                            <li data-i18n="companyInfo.businessActivities.activityAreas.items.6">In và thêu logo trên đồng phục</li>
                         </ul>
                     </div>
                 </div>
             </div>
 
             <div class="company-info-card" style="margin-top: 40px;">
-                <h2>Thông Tin Liên Hệ</h2>
+                <h2 data-i18n="companyInfo.contactInfo.title">Thông Tin Liên Hệ</h2>
                 
                 <div class="info-row">
-                    <div class="info-label">Giờ làm việc:</div>
-                    <div class="info-value">
+                    <div class="info-label" data-i18n="companyInfo.contactInfo.workingHours.label">Giờ làm việc:</div>
+                    <div class="info-value" data-i18n="companyInfo.contactInfo.workingHours.value">
                         Thứ 2 - Thứ 7: 8:00 - 17:00<br>
                         Chủ nhật: 8:00 - 12:00
                     </div>
                 </div>
 
                 <div class="info-row">
-                    <div class="info-label">Website:</div>
+                    <div class="info-label" data-i18n="companyInfo.contactInfo.website.label">Website:</div>
                     <div class="info-value">
-                        <a href="https://quockhanhuniform.com">https://quockhanhuniform.com</a>
+                        <a href="https://quockhanhuniform.com" data-i18n="companyInfo.contactInfo.website.value">https://quockhanhuniform.com</a>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-4" style="padding: 40px; background-color: var(--bg-light); border-radius: 10px; margin-top: 60px;">
-                <h2>Bạn Cần Liên Hệ Với Chúng Tôi?</h2>
-                <p>Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn</p>
+                <h2 data-i18n="companyInfo.cta.title">Bạn Cần Liên Hệ Với Chúng Tôi?</h2>
+                <p data-i18n="companyInfo.cta.desc">Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn</p>
                 <div style="margin-top: 30px;">
-                    <a href="contact.html" class="btn btn-primary">Liên hệ ngay</a>
-                    <a href="tel:0366333168" class="btn btn-secondary">Gọi: 0366 333 168</a>
+                    <a href="contact.html" class="btn btn-primary" data-i18n="companyInfo.cta.contact">Liên hệ ngay</a>
+                    <a href="tel:0366333168" class="btn btn-secondary" data-i18n="companyInfo.cta.call">Gọi: 0366 333 168</a>
                 </div>
             </div>
         </div>
@@ -301,45 +302,45 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3>QUỐC KHÁNH UNIFORM</h3>
-                    <p>Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội</p>
+                    <h3 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h3>
+                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội</p>
                     <div class="footer-contact">
-                        <p>📍 Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội</p>
-                        <p>📞 <a href="tel:0366333168">0366 333 168</a></p>
-                        <p>📧 <a href="mailto:info@quockhanhuniform.com">info@quockhanhuniform.com</a></p>
+                        <p>📍 <span data-i18n="common.footer.address">Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội</span></p>
+                        <p>📞 <a href="tel:0366333168" data-i18n="common.phone">0366 333 168</a></p>
+                        <p>📧 <a href="mailto:info@quockhanhuniform.com" data-i18n="common.footer.email">info@quockhanhuniform.com</a></p>
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h4>Dịch vụ</h4>
+                    <h4 data-i18n="common.footer.services">Dịch vụ</h4>
                     <ul>
-                        <li><a href="services.html#corporate">Đồng phục công ty</a></li>
-                        <li><a href="services.html#student">Đồng phục học sinh</a></li>
-                        <li><a href="services.html#safety">Đồng phục bảo hộ</a></li>
-                        <li><a href="services.html#hotel">Đồng phục nhà hàng - KS</a></li>
+                        <li><a href="services.html#corporate" data-i18n="common.footer.corporateUniform">Đồng phục công ty</a></li>
+                        <li><a href="services.html#student" data-i18n="common.footer.studentUniform">Đồng phục học sinh</a></li>
+                        <li><a href="services.html#safety" data-i18n="common.footer.safetyUniform">Đồng phục bảo hộ</a></li>
+                        <li><a href="services.html#hotel" data-i18n="common.footer.hotelUniform">Đồng phục nhà hàng - KS</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <h4>Thông tin</h4>
+                    <h4 data-i18n="common.footer.info">Thông tin</h4>
                     <ul>
-                        <li><a href="about.html">Giới thiệu</a></li>
-                        <li><a href="process.html">Quy trình</a></li>
-                        <li><a href="portfolio.html">Dự án</a></li>
-                        <li><a href="news.html">Tin tức</a></li>
+                        <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
+                        <li><a href="process.html" data-i18n="common.nav.process">Quy trình</a></li>
+                        <li><a href="portfolio.html" data-i18n="common.nav.portfolio">Dự án</a></li>
+                        <li><a href="news.html" data-i18n="common.nav.news">Tin tức</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <h4>Hỗ trợ</h4>
+                    <h4 data-i18n="common.footer.support">Hỗ trợ</h4>
                     <ul>
-                        <li><a href="policies.html">Chính sách bảo hành</a></li>
-                        <li><a href="policies.html#delivery">Chính sách giao hàng</a></li>
-                        <li><a href="policies.html#return">Chính sách đổi trả</a></li>
-                        <li><a href="contact.html">Liên hệ</a></li>
-                        <li><a href="company-info.html">Thông tin doanh nghiệp</a></li>
+                        <li><a href="policies.html" data-i18n="common.footer.warrantyPolicy">Chính sách bảo hành</a></li>
+                        <li><a href="policies.html#delivery" data-i18n="common.footer.deliveryPolicy">Chính sách giao hàng</a></li>
+                        <li><a href="policies.html#return" data-i18n="common.footer.returnPolicy">Chính sách đổi trả</a></li>
+                        <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
+                        <li><a href="company-info.html" data-i18n="common.footer.companyInfo">Thông tin doanh nghiệp</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264</p>
+                <p>&copy; <span data-i18n="common.footer.copyright">2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264</span></p>
             </div>
         </div>
     </footer>

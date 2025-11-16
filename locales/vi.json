@@ -232,12 +232,259 @@
   "about": {
     "pageTitle": "Giới Thiệu Công Ty",
     "pageSubtitle": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên gia đồng phục chất lượng cao",
-    "breadcrumb": "Giới thiệu"
+    "breadcrumb": "Giới thiệu",
+    "intro": {
+      "title": "Về Công Ty TNHH Quốc Khánh Uniform Việt Nam",
+      "desc": "Công ty TNHH Quốc Khánh Uniform Việt Nam được thành lập vào ngày 10 tháng 5 năm 2019, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực sản xuất, thiết kế và gia công đồng phục tại Việt Nam. Với hơn 5 năm kinh nghiệm trong ngành may mặc, chúng tôi tự hào là đối tác tin cậy của hàng trăm doanh nghiệp, trường học và tổ chức trên toàn quốc."
+    },
+    "mission": {
+      "title": "Sứ Mệnh & Tầm Nhìn",
+      "missionTitle": "Sứ Mệnh",
+      "missionDesc": "Chúng tôi cam kết mang đến những sản phẩm đồng phục chất lượng cao, đáp ứng mọi yêu cầu về thẩm mỹ, tính năng và độ bền. Mỗi sản phẩm được tạo ra đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ Quốc Khánh Uniform.",
+      "visionTitle": "Tầm Nhìn",
+      "visionDesc": "Trở thành công ty đồng phục hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng sản phẩm vượt trội, dịch vụ chuyên nghiệp và giá cả cạnh tranh."
+    },
+    "activity": {
+      "title": "Lĩnh Vực Hoạt Động",
+      "industry": "May trang phục (trừ trang phục từ da lông thú)",
+      "mainAreas": "Các lĩnh vực chính:",
+      "areas": [
+        "Sản xuất đồng phục công ty: Áo sơ mi, vest, quần tây, áo khoác công ty theo thiết kế riêng",
+        "Đồng phục học sinh: Áo sơ mi, quần/váy đồng phục, áo khoác, giày dép học sinh",
+        "Đồng phục bảo hộ lao động: Áo bảo hộ, quần bảo hộ, găng tay, mũ bảo hiểm",
+        "Đồng phục nhà hàng - khách sạn: Áo phục vụ, đầu bếp, lễ tân, quản lý",
+        "Thiết kế & Gia công: Tư vấn thiết kế, may mẫu, sản xuất hàng loạt"
+      ]
+    },
+    "capacity": {
+      "title": "Năng Lực Sản Xuất",
+      "machinery": {
+        "title": "Máy Móc & Công Nghệ",
+        "desc": "Chúng tôi đầu tư hệ thống máy may công nghiệp hiện đại, nhập khẩu từ các nước phát triển như Nhật Bản, Đức và Hàn Quốc:",
+        "items": [
+          "Máy may một kim: 50 máy - Chuyên may các đường may cơ bản, viền, túi",
+          "Máy may vắt sổ: 30 máy - Xử lý viền vải, chống sổ đường may",
+          "Máy may 2 kim: 25 máy - May các đường may kép, tăng độ bền",
+          "Máy thùa khuy: 10 máy - Tự động tạo khuy áo, chính xác cao",
+          "Máy đính cúc: 8 máy - Đính cúc áo tự động, chắc chắn",
+          "Máy may viền: 15 máy - May viền áo, cổ áo chuyên nghiệp",
+          "Máy là hơi công nghiệp: 20 máy - Là phẳng vải, tăng chất lượng sản phẩm",
+          "Máy cắt vải điện tử: 5 máy - Cắt vải chính xác, tiết kiệm nguyên liệu"
+        ]
+      },
+      "production": {
+        "title": "Năng Suất Xưởng",
+        "desc": "Với tổng số 163 máy móc và 120 công nhân lành nghề, năng lực sản xuất của chúng tôi:",
+        "items": [
+          "Sản xuất đồng phục công ty: 3.000 - 5.000 bộ/tháng",
+          "Đồng phục học sinh: 5.000 - 8.000 bộ/tháng",
+          "Đồng phục bảo hộ: 4.000 - 6.000 bộ/tháng",
+          "Đồng phục nhà hàng - KS: 2.000 - 4.000 bộ/tháng",
+          "Tổng năng suất: 14.000 - 23.000 sản phẩm/tháng"
+        ]
+      },
+      "materials": {
+        "title": "Nguyên Liệu & Chất Lượng",
+        "desc": "Chúng tôi sử dụng các loại vải cao cấp, được nhập khẩu và sản xuất trong nước:",
+        "items": [
+          "Vải cotton: 100% cotton, cotton pha, co giãn",
+          "Vải polyester: Chống nhăn, dễ bảo quản",
+          "Vải kaki: Bền, chắc, phù hợp đồng phục công ty",
+          "Vải bảo hộ: Chống cháy, chống nước, thoáng khí",
+          "Phụ liệu: Chỉ may chắc chắn, cúc bền, khóa kéo chất lượng"
+        ]
+      }
+    },
+    "team": {
+      "title": "Đội Ngũ Nhân Sự",
+      "desc": "Quốc Khánh Uniform tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
+      "items": [
+        "120 công nhân may: Được đào tạo bài bản, có kinh nghiệm từ 3-15 năm",
+        "15 thợ cắt: Kỹ thuật cao, cắt chính xác, tiết kiệm vải",
+        "10 nhân viên QC: Kiểm soát chất lượng nghiêm ngặt từng công đoạn",
+        "8 nhân viên thiết kế: Sáng tạo, nắm bắt xu hướng thời trang",
+        "5 kỹ sư may: Quản lý kỹ thuật, đảm bảo chất lượng sản xuất"
+      ]
+    },
+    "certificates": {
+      "title": "Chứng Nhận & Giải Thưởng",
+      "items": [
+        "Giấy chứng nhận đăng ký kinh doanh: MST 0108735264",
+        "Chứng nhận ISO 9001:2015 về hệ thống quản lý chất lượng",
+        "Chứng nhận an toàn lao động",
+        "Giải thưởng \"Doanh nghiệp tiêu biểu ngành may mặc Hà Nội\" 2022"
+      ]
+    },
+    "contact": {
+      "title": "Địa Chỉ & Liên Hệ",
+      "headquarters": "Trụ sở chính:",
+      "phone": "Điện thoại:",
+      "email": "Email:",
+      "workingHours": "Thời gian làm việc:",
+      "hours": "Thứ 2 - Thứ 7: 8:00 - 17:00 | Chủ nhật: 8:00 - 12:00"
+    }
   },
   "services": {
     "pageTitle": "Dịch Vụ Sản Xuất Đồng Phục",
     "pageSubtitle": "Chuyên nghiệp - Chất lượng - Uy tín",
-    "breadcrumb": "Dịch vụ"
+    "breadcrumb": "Dịch vụ",
+    "corporate": {
+      "title": "👔 Đồng Phục Công Ty",
+      "desc": "Thiết kế và may đồng phục công ty chuyên nghiệp, thể hiện thương hiệu doanh nghiệp một cách ấn tượng. Chúng tôi chuyên sản xuất các loại đồng phục văn phòng với chất lượng cao, mẫu mã đẹp và giá cả hợp lý.",
+      "productsTitle": "Sản Phẩm",
+      "products": [
+        {
+          "title": "Áo Sơ Mi Công Ty",
+          "desc": "Áo sơ mi dài tay, ngắn tay theo form chuẩn, có thể in/thêu logo công ty. Chất liệu cotton cao cấp, thoáng mát, dễ giặt ủi."
+        },
+        {
+          "title": "Vest Công Ty",
+          "desc": "Vest nam/nữ may đo theo form, vải cao cấp, phom dáng đẹp. Có thể kèm quần vest đồng bộ."
+        },
+        {
+          "title": "Quần Tây",
+          "desc": "Quần tây nam/nữ form đẹp, chất liệu kaki hoặc vải công nghiệp, bền màu, không nhăn."
+        },
+        {
+          "title": "Áo Khoác Công Ty",
+          "desc": "Áo khoác mùa đông, áo khoác nhẹ mùa hè. Có thể in logo, thêu chữ trên áo."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Thiết kế theo yêu cầu, thể hiện văn hóa doanh nghiệp",
+        "Chất liệu vải cao cấp, bền màu, thoáng mát",
+        "May đo chính xác theo size từng nhân viên",
+        "In/thêu logo, tên công ty chất lượng cao",
+        "Giao hàng đúng tiến độ, không phát sinh chi phí"
+      ],
+      "processTitle": "Quy Trình",
+      "process": [
+        "Tư vấn và thiết kế mẫu theo yêu cầu",
+        "Đo size và ghi nhận thông tin từng nhân viên",
+        "Sản xuất mẫu để khách hàng duyệt",
+        "Sản xuất hàng loạt sau khi được phê duyệt",
+        "Kiểm tra chất lượng và giao hàng"
+      ]
+    },
+    "student": {
+      "title": "🎓 Đồng Phục Học Sinh",
+      "desc": "Đồng phục học sinh bền đẹp, thoáng mát, phù hợp với tiêu chuẩn giáo dục Việt Nam. Chúng tôi sản xuất đồng phục cho các trường mầm non, tiểu học, THCS, THPT với mẫu mã đẹp, chất lượng cao.",
+      "productsTitle": "Sản Phẩm",
+      "products": [
+        {
+          "title": "Áo Sơ Mi Học Sinh",
+          "desc": "Áo sơ mi trắng theo chuẩn Bộ Giáo dục. Form rộng rãi, thoáng mát, phù hợp học sinh. Có thể in/thêu logo trường."
+        },
+        {
+          "title": "Quần/Váy Đồng Phục",
+          "desc": "Quần xanh navy cho nam, váy xếp ly cho nữ. Chất liệu kaki hoặc vải công nghiệp, bền, dễ giặt."
+        },
+        {
+          "title": "Áo Khoác Học Sinh",
+          "desc": "Áo khoác mùa đông, có thể in logo trường, tên lớp. Chất liệu chống nước nhẹ."
+        },
+        {
+          "title": "Phụ Kiện",
+          "desc": "Cà vạt, khăn quàng, mũ lưỡi trai đồng phục. Có thể in logo, thêu chữ trường."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Thiết kế phù hợp lứa tuổi học sinh",
+        "Chất liệu vải an toàn, không gây dị ứng",
+        "Form rộng rãi, thoải mái cho hoạt động",
+        "Bền màu, dễ giặt ủi, giá cả hợp lý",
+        "Đa dạng size từ mầm non đến THPT"
+      ],
+      "qualityTitle": "Tiêu Chuẩn Chất Lượng",
+      "quality": [
+        "Đáp ứng tiêu chuẩn chất lượng Bộ Giáo dục",
+        "Vải không phai màu, không co rút",
+        "Đường may chắc chắn, không sổ chỉ",
+        "Kiểm tra chất lượng từng sản phẩm trước khi giao"
+      ]
+    },
+    "safety": {
+      "title": "🦺 Đồng Phục Bảo Hộ Lao Động",
+      "desc": "Đồng phục bảo hộ lao động đạt tiêu chuẩn an toàn, chất lượng cao cho công nhân. Chúng tôi chuyên sản xuất các loại trang phục bảo hộ cho nhiều ngành nghề khác nhau.",
+      "productsTitle": "Sản Phẩm",
+      "products": [
+        {
+          "title": "Áo Bảo Hộ",
+          "desc": "Áo bảo hộ chống cháy, chống nước, phản quang. Phù hợp công nhân xây dựng, sản xuất, vận tải."
+        },
+        {
+          "title": "Quần Bảo Hộ",
+          "desc": "Quần bảo hộ bền chắc, có túi rộng, dây rút. Chất liệu kaki hoặc vải canvas cao cấp."
+        },
+        {
+          "title": "Áo Phản Quang",
+          "desc": "Áo phản quang cho công nhân giao thông, xây dựng. Dải phản quang 3M chất lượng cao."
+        },
+        {
+          "title": "Đồ Bảo Hộ Chuyên Dụng",
+          "desc": "Áo quần chống hóa chất, chống tia UV, chống tĩnh điện. Theo yêu cầu từng ngành nghề."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Đạt tiêu chuẩn an toàn lao động Việt Nam và quốc tế",
+        "Chất liệu chuyên dụng, bền, chống cháy/chống nước",
+        "Thiết kế tiện lợi, nhiều túi, dễ vận động",
+        "Dải phản quang rõ ràng, đảm bảo an toàn",
+        "Size đa dạng, phù hợp mọi vóc dáng"
+      ],
+      "safetyTitle": "Tiêu Chuẩn An Toàn",
+      "safety": [
+        "TCVN 6240 - Quần áo bảo hộ lao động",
+        "ISO 14116 - Chống cháy",
+        "EN 471 - Áo phản quang cao",
+        "Chứng nhận chất lượng từ các cơ quan kiểm định"
+      ]
+    },
+    "hotel": {
+      "title": "🍽️ Đồng Phục Nhà Hàng - Khách Sạn",
+      "desc": "Thiết kế đồng phục nhà hàng, khách sạn sang trọng, tạo ấn tượng tốt với khách hàng. Chúng tôi chuyên may đồng phục cho lễ tân, phục vụ, đầu bếp, quản lý với chất lượng cao.",
+      "productsTitle": "Sản Phẩm",
+      "products": [
+        {
+          "title": "Đồng Phục Lễ Tân",
+          "desc": "Áo sơ mi/vest sang trọng, quần/váy đẹp. Thiết kế tinh tế, thể hiện sự chuyên nghiệp."
+        },
+        {
+          "title": "Đồng Phục Phục Vụ",
+          "desc": "Áo sơ mi, quần tây/váy, tạp dề phục vụ. Màu sắc hài hòa, dễ vận động, dễ giặt."
+        },
+        {
+          "title": "Đồng Phục Đầu Bếp",
+          "desc": "Áo đầu bếp cao cấp, mũ đầu bếp, tạp dề. Chống bẩn, chống dính dầu mỡ, dễ giặt."
+        },
+        {
+          "title": "Đồng Phục Quản Lý",
+          "desc": "Vest, áo sơ mi cao cấp cho quản lý. Thiết kế riêng biệt, sang trọng hơn nhân viên."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Thiết kế sang trọng, phù hợp không gian nhà hàng/khách sạn",
+        "Chất liệu vải cao cấp, bền màu, không nhăn",
+        "Dễ giặt ủi, nhanh khô, phù hợp sử dụng thường xuyên",
+        "Có thể thêu/in logo nhà hàng, khách sạn",
+        "Mẫu mã đa dạng, phù hợp từng vị trí công việc"
+      ],
+      "servicesTitle": "Dịch Vụ Kèm Theo",
+      "services": [
+        "Tư vấn thiết kế đồng phục theo phong cách nhà hàng/KS",
+        "May mẫu để khách hàng xem và chỉnh sửa",
+        "Đo size tại chỗ cho nhân viên",
+        "Bảo hành và sửa chữa sau khi giao hàng"
+      ]
+    },
+    "ctaTitle": "Bạn Cần Tư Vấn Về Dịch Vụ?",
+    "ctaDesc": "Liên hệ với chúng tôi để nhận báo giá chi tiết và tư vấn miễn phí",
+    "ctaContact": "Liên hệ ngay",
+    "ctaCall": "Gọi: 0366 333 168"
   },
   "policies": {
     "pageTitle": "Chính Sách",
@@ -263,6 +510,637 @@
           "Ứng dụng không sử dụng bất kỳ hệ thống phân tích, thống kê hay analytics nào."
         ]
       }
+    },
+    "warranty": {
+      "title": "🛡️ Chính Sách Bảo Hành",
+      "timeTitle": "Thời Gian Bảo Hành",
+      "timeDesc": "Công ty TNHH Quốc Khánh Uniform Việt Nam cam kết bảo hành chất lượng sản phẩm cho khách hàng với thời gian như sau:",
+      "timeItems": {
+        "corporate": "Đồng phục công ty: 6 tháng kể từ ngày giao hàng",
+        "student": "Đồng phục học sinh: 6 tháng kể từ ngày giao hàng",
+        "safety": "Đồng phục bảo hộ: 3 tháng kể từ ngày giao hàng",
+        "hotel": "Đồng phục nhà hàng - khách sạn: 6 tháng kể từ ngày giao hàng"
+      },
+      "scopeTitle": "Phạm Vi Bảo Hành",
+      "scopeDesc": "Sản phẩm được bảo hành miễn phí trong các trường hợp sau:",
+      "scopeItems": [
+        "Lỗi sản xuất: Đường may bị sổ, cúc áo bị rơi, khóa kéo hỏng, logo in/thêu bị lỗi",
+        "Lỗi chất liệu: Vải bị phai màu nhanh, co rút quá mức (trên 5%), rách do chất liệu kém",
+        "Lỗi size: Size không đúng với thông tin đã đo (nếu do lỗi của chúng tôi)",
+        "Lỗi hoàn thiện: Sản phẩm có vết bẩn, vết dầu mỡ từ quá trình sản xuất"
+      ],
+      "notCoveredTitle": "Không Thuộc Phạm Vi Bảo Hành",
+      "notCoveredDesc": "Các trường hợp sau không được bảo hành:",
+      "notCoveredItems": [
+        "Sản phẩm bị rách, hư hỏng do sử dụng không đúng cách",
+        "Vết bẩn do người sử dụng gây ra trong quá trình sử dụng",
+        "Hư hỏng do giặt ủi sai cách (nhiệt độ quá cao, hóa chất tẩy mạnh)",
+        "Hư hỏng do tai nạn, thiên tai, hỏa hoạn",
+        "Hư hỏng do sửa chữa bởi bên thứ ba",
+        "Sản phẩm đã hết thời hạn bảo hành",
+        "Hư hỏng do hao mòn tự nhiên sau thời gian sử dụng dài"
+      ],
+      "processTitle": "Quy Trình Bảo Hành",
+      "processItems": [
+        {
+          "step": "Liên hệ",
+          "desc": "Khách hàng liên hệ với chúng tôi qua điện thoại hoặc email để thông báo về lỗi sản phẩm"
+        },
+        {
+          "step": "Kiểm tra",
+          "desc": "Chúng tôi sẽ kiểm tra và xác nhận lỗi có thuộc phạm vi bảo hành hay không"
+        },
+        {
+          "step": "Xử lý",
+          "desc": "Sửa chữa: Nếu có thể sửa chữa, chúng tôi sẽ sửa chữa miễn phí trong vòng 3-5 ngày. Đổi mới: Nếu không thể sửa chữa hoặc lỗi nghiêm trọng, chúng tôi sẽ đổi sản phẩm mới"
+        },
+        {
+          "step": "Giao hàng",
+          "desc": "Giao lại sản phẩm đã sửa chữa/đổi mới cho khách hàng"
+        }
+      ],
+      "notesTitle": "Lưu Ý",
+      "notes": [
+        "Khách hàng cần giữ lại hóa đơn/phiếu giao hàng để làm thủ tục bảo hành",
+        "Sản phẩm bảo hành phải còn nguyên vẹn, không bị rách nát, không thiếu phụ kiện",
+        "Thời gian bảo hành được tính từ ngày giao hàng theo phiếu giao hàng"
+      ]
+    },
+    "delivery": {
+      "title": "🚚 Chính Sách Giao Hàng",
+      "timeTitle": "Thời Gian Giao Hàng",
+      "timeDesc": "Thời gian giao hàng phụ thuộc vào số lượng và loại sản phẩm:",
+      "timeItems": [
+        "Dưới 100 sản phẩm: 7-10 ngày làm việc",
+        "100-500 sản phẩm: 10-15 ngày làm việc",
+        "500-1.000 sản phẩm: 15-20 ngày làm việc",
+        "Trên 1.000 sản phẩm: 20-30 ngày làm việc (theo thỏa thuận)"
+      ],
+      "timeNote": "Lưu ý: Thời gian trên được tính sau khi khách hàng đã duyệt mẫu và thanh toán tiền đặt cọc (30-50% giá trị hợp đồng).",
+      "methodTitle": "Phương Thức Giao Hàng",
+      "methodItems": [
+        "Giao hàng tận nơi: Miễn phí giao hàng trong nội thành Hà Nội",
+        "Giao hàng tỉnh: Khách hàng chịu phí vận chuyển theo đơn vị vận chuyển (Viettel Post, J&T, Viet Nam Post...)",
+        "Nhận hàng tại xưởng: Khách hàng có thể đến trực tiếp xưởng để nhận hàng, không mất phí"
+      ],
+      "processTitle": "Quy Trình Giao Hàng",
+      "processItems": [
+        {
+          "step": "Thông báo",
+          "desc": "Chúng tôi sẽ thông báo trước 1-2 ngày khi sản phẩm sẵn sàng giao hàng"
+        },
+        {
+          "step": "Xác nhận",
+          "desc": "Xác nhận lại địa chỉ giao hàng và thời gian với khách hàng"
+        },
+        {
+          "step": "Giao hàng",
+          "desc": "Giao hàng theo đúng địa chỉ và thời gian đã hẹn"
+        },
+        {
+          "step": "Nghiệm thu",
+          "desc": "Khách hàng kiểm tra số lượng, chất lượng và ký nghiệm thu"
+        },
+        {
+          "step": "Thanh toán",
+          "desc": "Thanh toán phần còn lại (nếu còn)"
+        }
+      ],
+      "commitmentTitle": "Cam Kết Giao Hàng",
+      "commitmentItems": [
+        "Giao hàng đúng số lượng theo hợp đồng",
+        "Giao hàng đúng thời gian đã cam kết",
+        "Đóng gói cẩn thận, đảm bảo sản phẩm không bị hư hỏng trong quá trình vận chuyển",
+        "Mỗi sản phẩm được đóng gói riêng, có nhãn ghi size, tên người nhận (nếu có)"
+      ],
+      "lateTitle": "Xử Lý Khi Giao Hàng Muộn",
+      "lateDesc": "Nếu chúng tôi giao hàng muộn so với thời gian cam kết (trừ trường hợp bất khả kháng):",
+      "lateItems": [
+        "Chúng tôi sẽ thông báo và xin lỗi khách hàng",
+        "Giảm 5-10% giá trị đơn hàng (tùy theo mức độ muộn)",
+        "Ưu tiên xử lý đơn hàng của khách hàng"
+      ]
+    },
+    "return": {
+      "title": "🔄 Chính Sách Đổi Trả",
+      "conditionsTitle": "Điều Kiện Đổi Trả",
+      "conditionsDesc": "Khách hàng có quyền đổi trả sản phẩm trong các trường hợp sau:",
+      "conditionsItems": [
+        "Sai size: Size không đúng với thông tin đã đặt (nếu do lỗi của chúng tôi)",
+        "Sai mẫu: Sản phẩm không đúng với mẫu đã được duyệt",
+        "Sai màu: Màu sắc không đúng với yêu cầu",
+        "Lỗi sản xuất: Sản phẩm có lỗi từ nhà sản xuất (thuộc phạm vi bảo hành)",
+        "Sai số lượng: Thiếu hoặc thừa số lượng so với đơn hàng"
+      ],
+      "timeTitle": "Thời Gian Đổi Trả",
+      "timeItems": {
+        "size": "Đổi size: Trong vòng 7 ngày kể từ ngày nhận hàng",
+        "color": "Đổi màu/mẫu: Trong vòng 3 ngày kể từ ngày nhận hàng",
+        "defect": "Đổi do lỗi: Trong thời hạn bảo hành (xem chính sách bảo hành)"
+      },
+      "productConditionsTitle": "Điều Kiện Sản Phẩm Đổi Trả",
+      "productConditionsDesc": "Sản phẩm đổi trả phải đáp ứng các điều kiện sau:",
+      "productConditionsItems": [
+        "Còn nguyên vẹn, chưa qua sử dụng",
+        "Còn đầy đủ phụ kiện, nhãn mác",
+        "Chưa giặt, chưa ủi",
+        "Không có vết bẩn, mùi lạ",
+        "Còn hóa đơn/phiếu giao hàng"
+      ],
+      "processTitle": "Quy Trình Đổi Trả",
+      "processItems": [
+        {
+          "step": "Liên hệ",
+          "desc": "Khách hàng liên hệ với chúng tôi qua điện thoại hoặc email để thông báo về yêu cầu đổi trả"
+        },
+        {
+          "step": "Xác nhận",
+          "desc": "Chúng tôi xác nhận lý do đổi trả và kiểm tra điều kiện"
+        },
+        {
+          "step": "Vận chuyển",
+          "desc": "Khách hàng gửi lại sản phẩm về địa chỉ của chúng tôi. Chúng tôi chịu phí vận chuyển nếu do lỗi của chúng tôi. Khách hàng chịu phí vận chuyển nếu do yêu cầu đổi size/màu (trong 7 ngày đầu)"
+        },
+        {
+          "step": "Xử lý",
+          "desc": "Chúng tôi kiểm tra và xử lý đổi trả trong vòng 3-5 ngày"
+        },
+        {
+          "step": "Giao hàng",
+          "desc": "Giao lại sản phẩm đã đổi cho khách hàng"
+        }
+      ],
+      "notesTitle": "Lưu Ý",
+      "notes": [
+        "Mỗi sản phẩm chỉ được đổi trả 1 lần (trừ trường hợp lỗi từ nhà sản xuất)",
+        "Nếu khách hàng yêu cầu đổi sang mẫu khác có giá cao hơn, cần thanh toán thêm phần chênh lệch",
+        "Nếu khách hàng yêu cầu đổi sang mẫu khác có giá thấp hơn, chúng tôi sẽ hoàn lại phần chênh lệch",
+        "Việc đổi trả do lỗi của chúng tôi sẽ được xử lý miễn phí hoàn toàn"
+      ]
+    },
+    "ctaTitle": "Bạn Có Câu Hỏi Về Chính Sách?",
+    "ctaDesc": "Liên hệ với chúng tôi để được giải đáp thắc mắc",
+    "ctaContact": "Liên hệ ngay",
+    "ctaCall": "Gọi: 0366 333 168"
+  },
+  "process": {
+    "pageTitle": "Quy Trình Sản Xuất",
+    "pageSubtitle": "Từ thiết kế đến giao hàng - Đảm bảo chất lượng và tiến độ",
+    "breadcrumb": "Quy trình",
+    "overview": {
+      "title": "Tổng Quan Quy Trình",
+      "desc": "Quốc Khánh Uniform tuân thủ quy trình sản xuất đồng phục chuyên nghiệp, đảm bảo chất lượng sản phẩm và tiến độ giao hàng. Quy trình của chúng tôi gồm 7 bước chính, từ tiếp nhận yêu cầu đến giao hàng và bảo hành sau bán."
+    },
+    "step1": {
+      "title": "Tiếp Nhận Yêu Cầu & Tư Vấn",
+      "time": "1-2 ngày",
+      "desc": "Khách hàng liên hệ qua điện thoại, email hoặc trực tiếp tại văn phòng. Đội ngũ tư vấn sẽ lắng nghe nhu cầu và yêu cầu của khách hàng:",
+      "customerNeeds": [
+        "Loại đồng phục cần may (công ty, học sinh, bảo hộ, nhà hàng...)",
+        "Số lượng sản phẩm cần sản xuất",
+        "Thời gian yêu cầu giao hàng",
+        "Ngân sách dự kiến",
+        "Yêu cầu về thiết kế, mẫu mã, màu sắc",
+        "Logo, thương hiệu cần in/thêu"
+      ],
+      "consultItems": [
+        "Chất liệu vải phù hợp",
+        "Mẫu mã thiết kế",
+        "Giá thành và phương án tối ưu",
+        "Quy trình sản xuất và thời gian"
+      ],
+      "consultTitle": "Chúng tôi sẽ tư vấn chi tiết về:"
+    },
+    "step2": {
+      "title": "Báo Giá & Ký Hợp Đồng",
+      "time": "1 ngày",
+      "desc": "Sau khi trao đổi với khách hàng, chúng tôi sẽ lập báo giá chi tiết gửi khách hàng trong vòng 24 giờ. Báo giá bao gồm:",
+      "quoteItems": [
+        "Giá thành từng sản phẩm",
+        "Chi tiết chất liệu, phụ liệu",
+        "Phí in/thêu logo (nếu có)",
+        "Phí đo size, may mẫu",
+        "Thời gian sản xuất và giao hàng",
+        "Điều khoản thanh toán",
+        "Chính sách bảo hành"
+      ],
+      "contractItems": [
+        "Chủng loại và số lượng sản phẩm",
+        "Thời gian sản xuất và giao hàng",
+        "Giá thành và phương thức thanh toán",
+        "Tiêu chuẩn chất lượng",
+        "Quy trình nghiệm thu"
+      ],
+      "contractTitle": "Khi khách hàng đồng ý báo giá, chúng tôi sẽ ký hợp đồng sản xuất với các điều khoản rõ ràng về:"
+    },
+    "step3": {
+      "title": "Thiết Kế & May Mẫu",
+      "time": "3-5 ngày",
+      "desc": "Đội ngũ thiết kế sẽ thiết kế mẫu đồng phục dựa trên yêu cầu của khách hàng:",
+      "processItems": [
+        {
+          "label": "Thiết kế trên máy",
+          "desc": "Tạo file thiết kế 2D, 3D để khách hàng xem trước"
+        },
+        {
+          "label": "Phê duyệt thiết kế",
+          "desc": "Khách hàng xem và chỉnh sửa đến khi hài lòng"
+        },
+        {
+          "label": "May mẫu",
+          "desc": "Sản xuất 1-3 bộ mẫu để khách hàng xem thực tế"
+        },
+        {
+          "label": "Duyệt mẫu",
+          "desc": "Khách hàng kiểm tra chất lượng, form dáng, màu sắc"
+        },
+        {
+          "label": "Chỉnh sửa",
+          "desc": "Điều chỉnh theo yêu cầu (nếu có)"
+        }
+      ],
+      "afterApproval": "Sau khi khách hàng duyệt mẫu, chúng tôi sẽ tiến hành đo size và thu thập thông tin cho từng nhân viên/học sinh."
+    },
+    "step4": {
+      "title": "Chuẩn Bị Nguyên Liệu & Cắt Vải",
+      "time": "2-3 ngày",
+      "desc": "Khi mẫu đã được duyệt, chúng tôi tiến hành chuẩn bị nguyên liệu:",
+      "items": [
+        {
+          "label": "Nhập vải",
+          "desc": "Mua vải theo đúng chất liệu đã thỏa thuận"
+        },
+        {
+          "label": "Kiểm tra vải",
+          "desc": "Kiểm tra chất lượng, màu sắc, độ dày mỏng"
+        },
+        {
+          "label": "Chuẩn bị phụ liệu",
+          "desc": "Chỉ may, cúc, khóa kéo, logo..."
+        },
+        {
+          "label": "Cắt vải",
+          "desc": "Sử dụng máy cắt điện tử để cắt vải chính xác theo rập"
+        },
+        {
+          "label": "Kiểm tra cắt",
+          "desc": "Đảm bảo số lượng và chất lượng từng bộ phận"
+        }
+      ]
+    },
+    "step5": {
+      "title": "Sản Xuất Hàng Loạt",
+      "time": "Tùy theo số lượng (10-20 ngày cho 1000-5000 sản phẩm)",
+      "desc": "Quá trình sản xuất được chia thành các công đoạn:",
+      "stages": [
+        {
+          "label": "Công đoạn 1 - May cơ bản",
+          "desc": "May các đường may chính, ráp các bộ phận"
+        },
+        {
+          "label": "Công đoạn 2 - Vắt sổ",
+          "desc": "Xử lý viền vải, chống sổ đường may"
+        },
+        {
+          "label": "Công đoạn 3 - May phụ",
+          "desc": "May túi, viền, cổ áo, tay áo"
+        },
+        {
+          "label": "Công đoạn 4 - Thêu/In logo",
+          "desc": "Thêu hoặc in logo công ty/trường"
+        },
+        {
+          "label": "Công đoạn 5 - Hoàn thiện",
+          "desc": "Đính cúc, khóa kéo, dây rút"
+        },
+        {
+          "label": "Công đoạn 6 - Là hơi",
+          "desc": "Là phẳng sản phẩm, đảm bảo thẩm mỹ"
+        }
+      ],
+      "qcNote": "Trong quá trình sản xuất, đội ngũ QC sẽ kiểm tra chất lượng từng công đoạn để đảm bảo tiêu chuẩn."
+    },
+    "step6": {
+      "title": "Kiểm Tra Chất Lượng & Hoàn Thiện",
+      "time": "2-3 ngày",
+      "desc": "Trước khi giao hàng, chúng tôi thực hiện kiểm tra chất lượng toàn bộ sản phẩm:",
+      "items": [
+        {
+          "label": "Kiểm tra từng sản phẩm",
+          "desc": "Form dáng, đường may, chất lượng vải"
+        },
+        {
+          "label": "Kiểm tra logo",
+          "desc": "Đảm bảo in/thêu đúng, đẹp, không lỗi"
+        },
+        {
+          "label": "Kiểm tra size",
+          "desc": "Đảm bảo đúng size từng người"
+        },
+        {
+          "label": "Kiểm tra hoàn thiện",
+          "desc": "Cúc, khóa, dây rút hoạt động tốt"
+        },
+        {
+          "label": "Là phẳng và đóng gói",
+          "desc": "Là phẳng sản phẩm, đóng gói cẩn thận"
+        },
+        {
+          "label": "Ghi nhãn",
+          "desc": "Dán nhãn size, tên người nhận cho từng sản phẩm"
+        }
+      ],
+      "note": "Sản phẩm không đạt chất lượng sẽ được sửa chữa hoặc sản xuất lại."
+    },
+    "step7": {
+      "title": "Giao Hàng & Nghiệm Thu",
+      "time": "1-2 ngày",
+      "desc": "Chúng tôi giao hàng đúng thời gian đã cam kết:",
+      "deliveryItems": [
+        {
+          "label": "Giao hàng tận nơi",
+          "desc": "Miễn phí giao hàng trong nội thành Hà Nội"
+        },
+        {
+          "label": "Giao hàng tỉnh",
+          "desc": "Giao hàng theo địa chỉ khách hàng, phí vận chuyển theo thỏa thuận"
+        },
+        {
+          "label": "Nghiệm thu",
+          "desc": "Khách hàng kiểm tra và ký nghiệm thu"
+        },
+        {
+          "label": "Thanh toán",
+          "desc": "Thanh toán theo điều khoản hợp đồng"
+        }
+      ],
+      "afterDelivery": "Sau khi giao hàng, chúng tôi sẽ:",
+      "supportItems": [
+        "Hỗ trợ xử lý các sản phẩm lỗi (nếu có)",
+        "Cung cấp dịch vụ bảo hành và sửa chữa",
+        "Lắng nghe phản hồi để cải thiện chất lượng"
+      ]
+    },
+    "commitments": {
+      "title": "Cam Kết Của Chúng Tôi",
+      "items": [
+        {
+          "title": "Chất Lượng Đảm Bảo",
+          "desc": "Kiểm tra chất lượng từng công đoạn, đảm bảo sản phẩm đạt tiêu chuẩn"
+        },
+        {
+          "title": "Giao Hàng Đúng Hẹn",
+          "desc": "Cam kết giao hàng đúng thời gian đã thỏa thuận trong hợp đồng"
+        },
+        {
+          "title": "Bảo Hành Sản Phẩm",
+          "desc": "Bảo hành chất lượng, sửa chữa miễn phí nếu có lỗi từ nhà sản xuất"
+        },
+        {
+          "title": "Hỗ Trợ Tận Tâm",
+          "desc": "Đội ngũ tư vấn và hỗ trợ sẵn sàng giải đáp mọi thắc mắc"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bắt Đầu Dự Án Của Bạn Ngay Hôm Nay",
+      "desc": "Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết",
+      "contact": "Liên hệ ngay",
+      "call": "Gọi: 0366 333 168"
+    }
+  },
+  "portfolio": {
+    "pageTitle": "Dự Án & Khách Hàng Tiêu Biểu",
+    "pageSubtitle": "Hơn 500 dự án đồng phục đã hoàn thành thành công",
+    "breadcrumb": "Dự án",
+    "overview": {
+      "title": "Tổng Quan Dự Án",
+      "desc": "Với hơn 5 năm kinh nghiệm trong ngành may đồng phục, Quốc Khánh Uniform đã hoàn thành thành công hơn 500 dự án lớn nhỏ cho các doanh nghiệp, trường học, tổ chức trên khắp cả nước. Chúng tôi tự hào được đồng hành cùng hàng trăm khách hàng tin tưởng."
+    },
+    "achievements": {
+      "title": "Thành Tích",
+      "labels": {
+        "projects": "Dự án hoàn thành",
+        "clients": "Khách hàng tin tưởng",
+        "satisfied": "Tỷ lệ hài lòng",
+        "experience": "Năm kinh nghiệm"
+      }
+    },
+    "projects": {
+      "title": "Dự Án Tiêu Biểu",
+      "items": [
+        {
+          "type": "Loại:",
+          "quantity": "Số lượng:",
+          "time": "Thời gian:",
+          "desc": "Thiết kế đồng phục văn phòng hiện đại cho công ty ABC với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo."
+        }
+      ]
+    },
+    "customers": {
+      "title": "Khách Hàng Tiêu Biểu",
+      "desc": "Chúng tôi tự hào được phục vụ các khách hàng uy tín trong nhiều lĩnh vực:",
+      "businesses": {
+        "title": "Các Doanh Nghiệp",
+        "categories": [
+          {
+            "title": "Công Ty Tài Chính & Ngân Hàng",
+            "examples": "ABC Bank, XYZ Finance, TechInvest Corporation"
+          },
+          {
+            "title": "Công Ty Công Nghệ Thông Tin",
+            "examples": "TechPro, SoftDev, Digital Solutions"
+          },
+          {
+            "title": "Công Ty Xây Dựng",
+            "examples": "XYZ Construction, BuildCorp, HomeBuilder"
+          },
+          {
+            "title": "Công Ty Sản Xuất",
+            "examples": "Manufacturing Co., Industrial Group"
+          }
+        ]
+      },
+      "schools": {
+        "title": "Các Trường Học",
+        "categories": [
+          {
+            "title": "Trường Tiểu Học",
+            "examples": "TH Hoa Sen, TH Phúc Lợi, TH Long Biên"
+          },
+          {
+            "title": "Trường THCS",
+            "examples": "THCS Phúc Lợi, THCS Long Biên, THCS Gia Thụy"
+          },
+          {
+            "title": "Trường THPT",
+            "examples": "THPT Long Biên, THPT Nguyễn Gia Thiều"
+          },
+          {
+            "title": "Trường Đại Học",
+            "examples": "Đại học Kinh tế, Đại học Bách Khoa"
+          }
+        ]
+      },
+      "hotels": {
+        "title": "Nhà Hàng & Khách Sạn",
+        "categories": [
+          {
+            "title": "Nhà Hàng Cao Cấp",
+            "examples": "Nhà hàng Đẳng Cấp, Restaurant Elite, Fine Dining"
+          },
+          {
+            "title": "Khách Sạn",
+            "examples": "Hotel Grand, Luxury Resort, Boutique Hotel"
+          }
+        ]
+      }
+    },
+    "testimonials": {
+      "title": "Phản Hồi Từ Khách Hàng",
+      "items": [
+        {
+          "author": "Chị Nguyễn Thị A - Giám đốc Công ty ABC",
+          "text": "Quốc Khánh Uniform đã tạo ra bộ đồng phục tuyệt vời cho công ty chúng tôi. Chất lượng sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."
+        },
+        {
+          "author": "Thầy Trần Văn B - Hiệu trưởng THCS Phúc Lợi",
+          "text": "Đồng phục học sinh của Quốc Khánh Uniform rất đẹp và bền. Phụ huynh và học sinh đều hài lòng. Dịch vụ tư vấn chuyên nghiệp, hỗ trợ tận tâm."
+        },
+        {
+          "author": "Anh Lê Văn C - Giám đốc Công ty Xây Dựng XYZ",
+          "text": "Đồng phục bảo hộ của Quốc Khánh Uniform đạt tiêu chuẩn an toàn, chất lượng tốt. Công nhân cảm thấy thoải mái khi làm việc. Rất hài lòng với dịch vụ."
+        },
+        {
+          "author": "Chị Phạm Thị D - Quản lý Nhà hàng Đẳng Cấp",
+          "text": "Đồng phục nhà hàng của Quốc Khánh Uniform rất sang trọng và chuyên nghiệp. Thiết kế đẹp, chất liệu tốt. Khách hàng đánh giá cao về hình ảnh đội ngũ nhân viên."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bạn Muốn Trở Thành Khách Hàng Tiếp Theo?",
+      "desc": "Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết",
+      "contact": "Liên hệ ngay",
+      "call": "Gọi: 0366 333 168"
+    }
+  },
+  "news": {
+    "pageTitle": "Tin Tức & Blog",
+    "pageSubtitle": "Cập nhật xu hướng và kinh nghiệm trong ngành may mặc",
+    "breadcrumb": "Tin tức",
+    "articles": [
+      {
+        "title": "Xu Hướng Đồng Phục Công Ty 2024: Thời Trang & Chuyên Nghiệp",
+        "meta": "15/12/2024 | 1,234 lượt xem",
+        "desc": "Đồng phục công ty không chỉ là trang phục làm việc mà còn là biểu tượng văn hóa doanh nghiệp. Năm 2024, xu hướng đồng phục công ty tập trung vào sự kết hợp giữa tính thời trang và chuyên nghiệp...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Hướng Dẫn Chọn Chất Liệu Vải Phù Hợp Cho Đồng Phục",
+        "meta": "10/12/2024 | 2,156 lượt xem",
+        "desc": "Việc chọn chất liệu vải phù hợp rất quan trọng khi may đồng phục. Bài viết này sẽ giúp bạn hiểu rõ các loại vải phổ biến như cotton, polyester, kaki và cách chọn vải phù hợp với từng loại đồng phục...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Tiêu Chuẩn Đồng Phục Học Sinh Theo Bộ Giáo Dục Và Đào Tạo",
+        "meta": "05/12/2024 | 1,890 lượt xem",
+        "desc": "Bộ Giáo dục và Đào tạo đã ban hành các quy định về đồng phục học sinh. Các trường học cần tuân thủ các tiêu chuẩn về màu sắc, kiểu dáng, chất liệu để đảm bảo tính thống nhất và an toàn...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Đồng Phục Bảo Hộ Lao Động: Tiêu Chuẩn An Toàn Và Chất Lượng",
+        "meta": "01/12/2024 | 1,567 lượt xem",
+        "desc": "Đồng phục bảo hộ lao động đóng vai trò quan trọng trong việc đảm bảo an toàn cho người lao động. Bài viết giải thích các tiêu chuẩn an toàn TCVN, ISO và cách chọn đồng phục bảo hộ phù hợp...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Cách Bảo Quản Đồng Phục Để Giữ Màu Sắc Và Độ Bền",
+        "meta": "25/11/2024 | 2,345 lượt xem",
+        "desc": "Bảo quản đồng phục đúng cách giúp kéo dài tuổi thọ và giữ được màu sắc, form dáng. Chúng tôi chia sẻ các mẹo giặt, ủi và bảo quản đồng phục theo từng loại chất liệu vải...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Thiết Kế Logo Trên Đồng Phục: In Hay Thêu?",
+        "meta": "20/11/2024 | 1,678 lượt xem",
+        "desc": "Logo trên đồng phục có thể được in hoặc thêu. Mỗi phương pháp có ưu nhược điểm riêng. Bài viết so sánh chi tiết giữa in và thêu logo để giúp bạn chọn phương pháp phù hợp nhất...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Xu Hướng Thời Trang Đồng Phục 2024: Từ Truyền Thống Đến Hiện Đại",
+        "meta": "15/11/2024 | 1,456 lượt xem",
+        "desc": "Ngành may mặc đang chứng kiến sự thay đổi trong xu hướng thiết kế đồng phục. Năm 2024, các mẫu đồng phục kết hợp giữa tính truyền thống và hiện đại, tạo nên phong cách độc đáo...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Hướng Dẫn Đo Size Đồng Phục Chính Xác",
+        "meta": "10/11/2024 | 2,012 lượt xem",
+        "desc": "Đo size đồng phục chính xác là bước quan trọng để có sản phẩm vừa vặn. Chúng tôi hướng dẫn chi tiết cách đo các số đo cần thiết như vòng ngực, vòng eo, chiều dài áo, quần...",
+        "readMore": "Đọc thêm →"
+      },
+      {
+        "title": "Công Nghệ May Hiện Đại: Từ Thủ Công Đến Tự Động Hóa",
+        "meta": "05/11/2024 | 1,789 lượt xem",
+        "desc": "Ngành may mặc đang chuyển đổi sang tự động hóa và công nghệ số. Máy may công nghiệp hiện đại, phần mềm thiết kế 3D, robot cắt vải... đang thay đổi cách sản xuất đồng phục...",
+        "readMore": "Đọc thêm →"
+      }
+    ]
+  },
+  "companyInfo": {
+    "pageTitle": "Thông Tin Doanh Nghiệp",
+    "pageSubtitle": "Thông tin đăng ký kinh doanh và pháp lý",
+    "breadcrumb": "Thông tin doanh nghiệp",
+    "businessInfo": {
+      "title": "Thông Tin Đăng Ký Kinh Doanh",
+      "labels": {
+        "nameVi": "Tên công ty (Tiếng Việt):",
+        "nameEn": "Tên công ty (Tiếng Anh):",
+        "abbreviation": "Tên viết tắt:",
+        "taxId": "Mã số thuế (MST):",
+        "activityDate": "Ngày hoạt động:",
+        "status": "Tình trạng doanh nghiệp:",
+        "managedBy": "Quản lý bởi:",
+        "taxAddress": "Địa chỉ thuế:",
+        "headquarters": "Địa chỉ trụ sở:",
+        "phone": "Điện thoại:",
+        "email": "Email:"
+      },
+      "statusActive": "Đang hoạt động"
+    },
+    "businessActivities": {
+      "title": "Thông Tin Ngành Nghề Kinh Doanh",
+      "mainIndustry": {
+        "label": "Ngành nghề chính:",
+        "value": "May trang phục (trừ trang phục từ da lông thú)"
+      },
+      "activityAreas": {
+        "label": "Lĩnh vực hoạt động:",
+        "items": [
+          "Sản xuất đồng phục công ty",
+          "Sản xuất đồng phục học sinh",
+          "Sản xuất đồng phục bảo hộ lao động",
+          "Sản xuất đồng phục nhà hàng – khách sạn",
+          "Thiết kế đồng phục",
+          "Gia công đồng phục",
+          "In và thêu logo trên đồng phục"
+        ]
+      }
+    },
+    "contactInfo": {
+      "title": "Thông Tin Liên Hệ",
+      "workingHours": {
+        "label": "Giờ làm việc:",
+        "value": "Thứ 2 - Thứ 7: 8:00 - 17:00\nChủ nhật: 8:00 - 12:00"
+      },
+      "website": {
+        "label": "Website:",
+        "value": "https://quockhanhuniform.com"
+      }
+    },
+    "cta": {
+      "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
+      "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
+      "contact": "Liên hệ ngay",
+      "call": "Gọi: 0366 333 168"
     }
   }
 }

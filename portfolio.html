@@ -8,6 +8,7 @@
     <title>Dự Án & Khách Hàng - Quốc Khánh Uniform | Portfolio Đồng Phục</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="canonical" href="https://quockhanhuniform.com/portfolio.html">
+    <script src="js/i18n.js" defer></script>
 </head>
 <body>
     <!-- Header -->
@@ -15,26 +16,26 @@
         <div class="container">
             <div class="header-top">
                 <div class="logo">
-                    <h1>QUỐC KHÁNH UNIFORM</h1>
-                    <p class="tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
+                    <h1 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h1>
+                    <p class="tagline" data-i18n="common.tagline">Chất lượng - Uy tín - Chuyên nghiệp</p>
                 </div>
                 <div class="header-contact">
-                    <a href="tel:0366333168" class="phone-link">📞 0366 333 168</a>
-                    <a href="contact.html" class="btn btn-primary">Liên hệ ngay</a>
+                    <a href="tel:0366333168" class="phone-link">📞 <span data-i18n="common.phone">0366 333 168</span></a>
+                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
                 </div>
             </div>
             <nav class="navbar">
                 <ul class="nav-menu">
-                    <li><a href="index.html">Trang chủ</a></li>
-                    <li><a href="about.html">Giới thiệu</a></li>
-                    <li><a href="services.html">Dịch vụ</a></li>
-                    <li><a href="process.html">Quy trình</a></li>
-                    <li><a href="portfolio.html" class="active">Dự án</a></li>
-                    <li><a href="news.html">Tin tức</a></li>
-                    <li><a href="policies.html">Chính sách</a></li>
-                    <li><a href="contact.html">Liên hệ</a></li>
+                    <li><a href="index.html" data-i18n="common.nav.home">Trang chủ</a></li>
+                    <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
+                    <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
+                    <li><a href="process.html" data-i18n="common.nav.process">Quy trình</a></li>
+                    <li><a href="portfolio.html" class="active" data-i18n="common.nav.portfolio">Dự án</a></li>
+                    <li><a href="news.html" data-i18n="common.nav.news">Tin tức</a></li>
+                    <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
+                    <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                 </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
+                <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
             </nav>
         </div>
     </header>
@@ -42,8 +43,8 @@
     <!-- Page Header -->
     <section class="page-header">
         <div class="container">
-            <h1>Dự Án & Khách Hàng Tiêu Biểu</h1>
-            <p>Hơn 500 dự án đồng phục đã hoàn thành thành công</p>
+            <h1 data-i18n="portfolio.pageTitle">Dự Án & Khách Hàng Tiêu Biểu</h1>
+            <p data-i18n="portfolio.pageSubtitle">Hơn 500 dự án đồng phục đã hoàn thành thành công</p>
         </div>
     </section>
 
@@ -51,8 +52,8 @@
     <nav class="breadcrumb">
         <div class="container">
             <ul>
-                <li><a href="index.html">Trang chủ</a></li>
-                <li>Dự án</li>
+                <li><a href="index.html" data-i18n="common.breadcrumb.home">Trang chủ</a></li>
+                <li data-i18n="portfolio.breadcrumb">Dự án</li>
             </ul>
         </div>
     </nav>
@@ -61,30 +62,30 @@
     <section class="content-section">
         <div class="container">
             <div class="content-section">
-                <h2>Tổng Quan Dự Án</h2>
-                <p>Với hơn 5 năm kinh nghiệm trong ngành may đồng phục, Quốc Khánh Uniform đã hoàn thành thành công hơn 500 dự án lớn nhỏ cho các doanh nghiệp, trường học, tổ chức trên khắp cả nước. Chúng tôi tự hào được đồng hành cùng hàng trăm khách hàng tin tưởng.</p>
+                <h2 data-i18n="portfolio.overview.title">Tổng Quan Dự Án</h2>
+                <p data-i18n="portfolio.overview.desc">Với hơn 5 năm kinh nghiệm trong ngành may đồng phục, Quốc Khánh Uniform đã hoàn thành thành công hơn 500 dự án lớn nhỏ cho các doanh nghiệp, trường học, tổ chức trên khắp cả nước. Chúng tôi tự hào được đồng hành cùng hàng trăm khách hàng tin tưởng.</p>
 
-                <h2 style="margin-top: 40px;">Thành Tích</h2>
+                <h2 style="margin-top: 40px;" data-i18n="portfolio.achievements.title">Thành Tích</h2>
                 <div class="stats-grid" style="margin-top: 30px;">
                     <div class="stat-item">
                         <div class="stat-number">500+</div>
-                        <div class="stat-label">Dự án hoàn thành</div>
+                        <div class="stat-label" data-i18n="portfolio.achievements.labels.projects">Dự án hoàn thành</div>
                     </div>
                     <div class="stat-item">
                         <div class="stat-number">300+</div>
-                        <div class="stat-label">Khách hàng tin tưởng</div>
+                        <div class="stat-label" data-i18n="portfolio.achievements.labels.clients">Khách hàng tin tưởng</div>
                     </div>
                     <div class="stat-item">
                         <div class="stat-number">98%</div>
-                        <div class="stat-label">Tỷ lệ hài lòng</div>
+                        <div class="stat-label" data-i18n="portfolio.achievements.labels.satisfied">Tỷ lệ hài lòng</div>
                     </div>
                     <div class="stat-item">
                         <div class="stat-number">5+</div>
-                        <div class="stat-label">Năm kinh nghiệm</div>
+                        <div class="stat-label" data-i18n="portfolio.achievements.labels.experience">Năm kinh nghiệm</div>
                     </div>
                 </div>
 
-                <h2 style="margin-top: 60px;">Dự Án Tiêu Biểu</h2>
+                <h2 style="margin-top: 60px;" data-i18n="portfolio.projects.title">Dự Án Tiêu Biểu</h2>
             </div>
         </div>
     </section>
@@ -97,10 +98,10 @@
                     <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=600" alt="Đồng phục công ty">
                     <div class="portfolio-item-content">
                         <h3>Đồng Phục Công Ty ABC</h3>
-                        <p><strong>Loại:</strong> Đồng phục công ty</p>
-                        <p><strong>Số lượng:</strong> 500 bộ</p>
-                        <p><strong>Thời gian:</strong> 2024</p>
-                        <p>Thiết kế đồng phục văn phòng hiện đại cho công ty ABC với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo.</p>
+                        <p><strong data-i18n="portfolio.projects.items.0.type">Loại:</strong> Đồng phục công ty</p>
+                        <p><strong data-i18n="portfolio.projects.items.0.quantity">Số lượng:</strong> 500 bộ</p>
+                        <p><strong data-i18n="portfolio.projects.items.0.time">Thời gian:</strong> 2024</p>
+                        <p data-i18n="portfolio.projects.items.0.desc">Thiết kế đồng phục văn phòng hiện đại cho công ty ABC với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo.</p>
                     </div>
                 </div>
 
@@ -166,87 +167,87 @@
     <section class="content-section">
         <div class="container">
             <div class="content-section">
-                <h2>Khách Hàng Tiêu Biểu</h2>
-                <p>Chúng tôi tự hào được phục vụ các khách hàng uy tín trong nhiều lĩnh vực:</p>
+                <h2 data-i18n="portfolio.customers.title">Khách Hàng Tiêu Biểu</h2>
+                <p data-i18n="portfolio.customers.desc">Chúng tôi tự hào được phục vụ các khách hàng uy tín trong nhiều lĩnh vực:</p>
 
-                <h3>Các Doanh Nghiệp</h3>
+                <h3 data-i18n="portfolio.customers.businesses.title">Các Doanh Nghiệp</h3>
                 <div class="service-features">
                     <div class="service-feature-item">
-                        <h4>Công Ty Tài Chính & Ngân Hàng</h4>
-                        <p>ABC Bank, XYZ Finance, TechInvest Corporation</p>
+                        <h4 data-i18n="portfolio.customers.businesses.categories.0.title">Công Ty Tài Chính & Ngân Hàng</h4>
+                        <p data-i18n="portfolio.customers.businesses.categories.0.examples">ABC Bank, XYZ Finance, TechInvest Corporation</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Công Ty Công Nghệ Thông Tin</h4>
-                        <p>TechPro, SoftDev, Digital Solutions</p>
+                        <h4 data-i18n="portfolio.customers.businesses.categories.1.title">Công Ty Công Nghệ Thông Tin</h4>
+                        <p data-i18n="portfolio.customers.businesses.categories.1.examples">TechPro, SoftDev, Digital Solutions</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Công Ty Xây Dựng</h4>
-                        <p>XYZ Construction, BuildCorp, HomeBuilder</p>
+                        <h4 data-i18n="portfolio.customers.businesses.categories.2.title">Công Ty Xây Dựng</h4>
+                        <p data-i18n="portfolio.customers.businesses.categories.2.examples">XYZ Construction, BuildCorp, HomeBuilder</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Công Ty Sản Xuất</h4>
-                        <p>Manufacturing Co., Industrial Group</p>
+                        <h4 data-i18n="portfolio.customers.businesses.categories.3.title">Công Ty Sản Xuất</h4>
+                        <p data-i18n="portfolio.customers.businesses.categories.3.examples">Manufacturing Co., Industrial Group</p>
                     </div>
                 </div>
 
-                <h3>Các Trường Học</h3>
+                <h3 data-i18n="portfolio.customers.schools.title">Các Trường Học</h3>
                 <div class="service-features">
                     <div class="service-feature-item">
-                        <h4>Trường Tiểu Học</h4>
-                        <p>TH Hoa Sen, TH Phúc Lợi, TH Long Biên</p>
+                        <h4 data-i18n="portfolio.customers.schools.categories.0.title">Trường Tiểu Học</h4>
+                        <p data-i18n="portfolio.customers.schools.categories.0.examples">TH Hoa Sen, TH Phúc Lợi, TH Long Biên</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Trường THCS</h4>
-                        <p>THCS Phúc Lợi, THCS Long Biên, THCS Gia Thụy</p>
+                        <h4 data-i18n="portfolio.customers.schools.categories.1.title">Trường THCS</h4>
+                        <p data-i18n="portfolio.customers.schools.categories.1.examples">THCS Phúc Lợi, THCS Long Biên, THCS Gia Thụy</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Trường THPT</h4>
-                        <p>THPT Long Biên, THPT Nguyễn Gia Thiều</p>
+                        <h4 data-i18n="portfolio.customers.schools.categories.2.title">Trường THPT</h4>
+                        <p data-i18n="portfolio.customers.schools.categories.2.examples">THPT Long Biên, THPT Nguyễn Gia Thiều</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Trường Đại Học</h4>
-                        <p>Đại học Kinh tế, Đại học Bách Khoa</p>
+                        <h4 data-i18n="portfolio.customers.schools.categories.3.title">Trường Đại Học</h4>
+                        <p data-i18n="portfolio.customers.schools.categories.3.examples">Đại học Kinh tế, Đại học Bách Khoa</p>
                     </div>
                 </div>
 
-                <h3>Nhà Hàng & Khách Sạn</h3>
+                <h3 data-i18n="portfolio.customers.hotels.title">Nhà Hàng & Khách Sạn</h3>
                 <div class="service-features">
                     <div class="service-feature-item">
-                        <h4>Nhà Hàng Cao Cấp</h4>
-                        <p>Nhà hàng Đẳng Cấp, Restaurant Elite, Fine Dining</p>
+                        <h4 data-i18n="portfolio.customers.hotels.categories.0.title">Nhà Hàng Cao Cấp</h4>
+                        <p data-i18n="portfolio.customers.hotels.categories.0.examples">Nhà hàng Đẳng Cấp, Restaurant Elite, Fine Dining</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Khách Sạn</h4>
-                        <p>Hotel Grand, Luxury Resort, Boutique Hotel</p>
+                        <h4 data-i18n="portfolio.customers.hotels.categories.1.title">Khách Sạn</h4>
+                        <p data-i18n="portfolio.customers.hotels.categories.1.examples">Hotel Grand, Luxury Resort, Boutique Hotel</p>
                     </div>
                 </div>
 
-                <h2 style="margin-top: 60px;">Phản Hồi Từ Khách Hàng</h2>
+                <h2 style="margin-top: 60px;" data-i18n="portfolio.testimonials.title">Phản Hồi Từ Khách Hàng</h2>
                 <div class="service-features" style="margin-top: 30px;">
                     <div class="service-feature-item">
-                        <h4>Chị Nguyễn Thị A - Giám đốc Công ty ABC</h4>
-                        <p>"Quốc Khánh Uniform đã tạo ra bộ đồng phục tuyệt vời cho công ty chúng tôi. Chất lượng sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."</p>
+                        <h4 data-i18n="portfolio.testimonials.items.0.author">Chị Nguyễn Thị A - Giám đốc Công ty ABC</h4>
+                        <p data-i18n="portfolio.testimonials.items.0.text">"Quốc Khánh Uniform đã tạo ra bộ đồng phục tuyệt vời cho công ty chúng tôi. Chất lượng sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Thầy Trần Văn B - Hiệu trưởng THCS Phúc Lợi</h4>
-                        <p>"Đồng phục học sinh của Quốc Khánh Uniform rất đẹp và bền. Phụ huynh và học sinh đều hài lòng. Dịch vụ tư vấn chuyên nghiệp, hỗ trợ tận tâm."</p>
+                        <h4 data-i18n="portfolio.testimonials.items.1.author">Thầy Trần Văn B - Hiệu trưởng THCS Phúc Lợi</h4>
+                        <p data-i18n="portfolio.testimonials.items.1.text">"Đồng phục học sinh của Quốc Khánh Uniform rất đẹp và bền. Phụ huynh và học sinh đều hài lòng. Dịch vụ tư vấn chuyên nghiệp, hỗ trợ tận tâm."</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Anh Lê Văn C - Giám đốc Công ty Xây Dựng XYZ</h4>
-                        <p>"Đồng phục bảo hộ của Quốc Khánh Uniform đạt tiêu chuẩn an toàn, chất lượng tốt. Công nhân cảm thấy thoải mái khi làm việc. Rất hài lòng với dịch vụ."</p>
+                        <h4 data-i18n="portfolio.testimonials.items.2.author">Anh Lê Văn C - Giám đốc Công ty Xây Dựng XYZ</h4>
+                        <p data-i18n="portfolio.testimonials.items.2.text">"Đồng phục bảo hộ của Quốc Khánh Uniform đạt tiêu chuẩn an toàn, chất lượng tốt. Công nhân cảm thấy thoải mái khi làm việc. Rất hài lòng với dịch vụ."</p>
                     </div>
                     <div class="service-feature-item">
-                        <h4>Chị Phạm Thị D - Quản lý Nhà hàng Đẳng Cấp</h4>
-                        <p>"Đồng phục nhà hàng của Quốc Khánh Uniform rất sang trọng và chuyên nghiệp. Thiết kế đẹp, chất liệu tốt. Khách hàng đánh giá cao về hình ảnh đội ngũ nhân viên."</p>
+                        <h4 data-i18n="portfolio.testimonials.items.3.author">Chị Phạm Thị D - Quản lý Nhà hàng Đẳng Cấp</h4>
+                        <p data-i18n="portfolio.testimonials.items.3.text">"Đồng phục nhà hàng của Quốc Khánh Uniform rất sang trọng và chuyên nghiệp. Thiết kế đẹp, chất liệu tốt. Khách hàng đánh giá cao về hình ảnh đội ngũ nhân viên."</p>
                     </div>
                 </div>
 
                 <div class="text-center mt-4" style="padding: 40px; background-color: var(--bg-light); border-radius: 10px; margin-top: 60px;">
-                    <h2>Bạn Muốn Trở Thành Khách Hàng Tiếp Theo?</h2>
-                    <p>Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết</p>
+                    <h2 data-i18n="portfolio.cta.title">Bạn Muốn Trở Thành Khách Hàng Tiếp Theo?</h2>
+                    <p data-i18n="portfolio.cta.desc">Liên hệ với chúng tôi để được tư vấn và nhận báo giá chi tiết</p>
                     <div style="margin-top: 30px;">
-                        <a href="contact.html" class="btn btn-primary">Liên hệ ngay</a>
-                        <a href="tel:0366333168" class="btn btn-secondary">Gọi: 0366 333 168</a>
+                        <a href="contact.html" class="btn btn-primary" data-i18n="portfolio.cta.contact">Liên hệ ngay</a>
+                        <a href="tel:0366333168" class="btn btn-secondary" data-i18n="portfolio.cta.call">Gọi: 0366 333 168</a>
                     </div>
                 </div>
             </div>
@@ -258,45 +259,45 @@
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3>QUỐC KHÁNH UNIFORM</h3>
-                    <p>Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội</p>
+                    <h3 data-i18n="common.logo">QUỐC KHÁNH UNIFORM</h3>
+                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội</p>
                     <div class="footer-contact">
-                        <p>📍 Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội</p>
-                        <p>📞 <a href="tel:0366333168">0366 333 168</a></p>
-                        <p>📧 <a href="mailto:info@quockhanhuniform.com">info@quockhanhuniform.com</a></p>
+                        <p>📍 <span data-i18n="common.footer.address">Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội</span></p>
+                        <p>📞 <a href="tel:0366333168" data-i18n="common.phone">0366 333 168</a></p>
+                        <p>📧 <a href="mailto:info@quockhanhuniform.com" data-i18n="common.footer.email">info@quockhanhuniform.com</a></p>
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h4>Dịch vụ</h4>
+                    <h4 data-i18n="common.footer.services">Dịch vụ</h4>
                     <ul>
-                        <li><a href="services.html#corporate">Đồng phục công ty</a></li>
-                        <li><a href="services.html#student">Đồng phục học sinh</a></li>
-                        <li><a href="services.html#safety">Đồng phục bảo hộ</a></li>
-                        <li><a href="services.html#hotel">Đồng phục nhà hàng - KS</a></li>
+                        <li><a href="services.html#corporate" data-i18n="common.footer.corporateUniform">Đồng phục công ty</a></li>
+                        <li><a href="services.html#student" data-i18n="common.footer.studentUniform">Đồng phục học sinh</a></li>
+                        <li><a href="services.html#safety" data-i18n="common.footer.safetyUniform">Đồng phục bảo hộ</a></li>
+                        <li><a href="services.html#hotel" data-i18n="common.footer.hotelUniform">Đồng phục nhà hàng - KS</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <h4>Thông tin</h4>
+                    <h4 data-i18n="common.footer.info">Thông tin</h4>
                     <ul>
-                        <li><a href="about.html">Giới thiệu</a></li>
-                        <li><a href="process.html">Quy trình</a></li>
-                        <li><a href="portfolio.html">Dự án</a></li>
-                        <li><a href="news.html">Tin tức</a></li>
+                        <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
+                        <li><a href="process.html" data-i18n="common.nav.process">Quy trình</a></li>
+                        <li><a href="portfolio.html" data-i18n="common.nav.portfolio">Dự án</a></li>
+                        <li><a href="news.html" data-i18n="common.nav.news">Tin tức</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <h4>Hỗ trợ</h4>
+                    <h4 data-i18n="common.footer.support">Hỗ trợ</h4>
                     <ul>
-                        <li><a href="policies.html">Chính sách bảo hành</a></li>
-                        <li><a href="policies.html#delivery">Chính sách giao hàng</a></li>
-                        <li><a href="policies.html#return">Chính sách đổi trả</a></li>
-                        <li><a href="contact.html">Liên hệ</a></li>
-                        <li><a href="company-info.html">Thông tin doanh nghiệp</a></li>
+                        <li><a href="policies.html" data-i18n="common.footer.warrantyPolicy">Chính sách bảo hành</a></li>
+                        <li><a href="policies.html#delivery" data-i18n="common.footer.deliveryPolicy">Chính sách giao hàng</a></li>
+                        <li><a href="policies.html#return" data-i18n="common.footer.returnPolicy">Chính sách đổi trả</a></li>
+                        <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
+                        <li><a href="company-info.html" data-i18n="common.footer.companyInfo">Thông tin doanh nghiệp</a></li>
                     </ul>
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264</p>
+                <p>&copy; <span data-i18n="common.footer.copyright">2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264</span></p>
             </div>
         </div>
     </footer>
