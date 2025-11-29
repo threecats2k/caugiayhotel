@@ -90,6 +90,23 @@ section {
     border-bottom: 1px solid var(--border-color);
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    max-height: 80px;
+    width: auto;
+    height: auto;
+    display: block;
+}
+
+.logo a {
+    display: inline-block;
+    text-decoration: none;
+}
+
 .logo h1 {
     font-size: 1.8rem;
     color: var(--primary-color);
@@ -933,6 +950,10 @@ section {
         text-align: center;
     }
 
+    .logo img {
+        max-height: 60px;
+    }
+
     .header-contact {
         flex-wrap: wrap;
         justify-content: center;
@@ -1027,6 +1048,10 @@ section {
 }
 
 @media (max-width: 480px) {
+    .logo img {
+        max-height: 50px;
+    }
+
     .hero-content h1 {
         font-size: 1.5rem;
     }

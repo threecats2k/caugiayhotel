@@ -6,7 +6,7 @@
     
     <!-- Homepage -->
     <url>
-        <loc>https://quockhanhuniform.com/</loc>
+        <loc>https://uniform-quockhanh.store/</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- About Page -->
     <url>
-        <loc>https://quockhanhuniform.com/about.html</loc>
+        <loc>https://uniform-quockhanh.store/about.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -22,7 +22,7 @@
     
     <!-- Services Page -->
     <url>
-        <loc>https://quockhanhuniform.com/services.html</loc>
+        <loc>https://uniform-quockhanh.store/services.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -30,7 +30,7 @@
     
     <!-- Process Page -->
     <url>
-        <loc>https://quockhanhuniform.com/process.html</loc>
+        <loc>https://uniform-quockhanh.store/process.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
     
     <!-- Portfolio Page -->
     <url>
-        <loc>https://quockhanhuniform.com/portfolio.html</loc>
+        <loc>https://uniform-quockhanh.store/portfolio.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
     
     <!-- News Page -->
     <url>
-        <loc>https://quockhanhuniform.com/news.html</loc>
+        <loc>https://uniform-quockhanh.store/news.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -54,7 +54,7 @@
     
     <!-- Policies Page -->
     <url>
-        <loc>https://quockhanhuniform.com/policies.html</loc>
+        <loc>https://uniform-quockhanh.store/policies.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -62,7 +62,7 @@
     
     <!-- Contact Page -->
     <url>
-        <loc>https://quockhanhuniform.com/contact.html</loc>
+        <loc>https://uniform-quockhanh.store/contact.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -70,11 +70,10 @@
     
     <!-- Company Info Page -->
     <url>
-        <loc>https://quockhanhuniform.com/company-info.html</loc>
+        <loc>https://uniform-quockhanh.store/company-info.html</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
 </urlset>
-
