@@ -930,10 +930,64 @@
       "title": "Dự Án Tiêu Biểu",
       "items": [
         {
+          "title": "Đồng Phục Công Ty Tài Chính",
           "type": "Loại:",
+          "typeValue": "Đồng phục công ty",
           "quantity": "Số lượng:",
+          "quantityValue": "500 bộ",
           "time": "Thời gian:",
-          "desc": "Thiết kế đồng phục văn phòng hiện đại cho công ty ABC với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo."
+          "timeValue": "2024",
+          "desc": "Thiết kế đồng phục văn phòng hiện đại cho công ty tài chính với áo sơ mi và vest cao cấp. Logo công ty được thêu tinh tế trên áo."
+        },
+        {
+          "title": "Đồng Phục Trường THCS Phúc Lợi",
+          "type": "Loại:",
+          "typeValue": "Đồng phục học sinh",
+          "quantity": "Số lượng:",
+          "quantityValue": "1.200 bộ",
+          "time": "Thời gian:",
+          "timeValue": "2024",
+          "desc": "Sản xuất đồng phục học sinh cho toàn bộ học sinh trường THCS Phúc Lợi. Áo sơ mi trắng và quần/váy xanh navy theo chuẩn Bộ Giáo dục."
+        },
+        {
+          "title": "Đồng Phục Bảo Hộ Công Ty Xây Dựng",
+          "type": "Loại:",
+          "typeValue": "Đồng phục bảo hộ",
+          "quantity": "Số lượng:",
+          "quantityValue": "800 bộ",
+          "time": "Thời gian:",
+          "timeValue": "2024",
+          "desc": "Đồng phục bảo hộ lao động chống cháy, có dải phản quang cho công nhân xây dựng. Đạt tiêu chuẩn an toàn lao động."
+        },
+        {
+          "title": "Đồng Phục Nhà Hàng Đẳng Cấp",
+          "type": "Loại:",
+          "typeValue": "Đồng phục nhà hàng - KS",
+          "quantity": "Số lượng:",
+          "quantityValue": "150 bộ",
+          "time": "Thời gian:",
+          "timeValue": "2024",
+          "desc": "Thiết kế và may đồng phục sang trọng cho nhà hàng cao cấp. Bao gồm đồng phục lễ tân, phục vụ và đầu bếp."
+        },
+        {
+          "title": "Đồng Phục Công Ty Công Nghệ",
+          "type": "Loại:",
+          "typeValue": "Đồng phục công ty",
+          "quantity": "Số lượng:",
+          "quantityValue": "300 bộ",
+          "time": "Thời gian:",
+          "timeValue": "2023",
+          "desc": "Đồng phục công ty phong cách trẻ trung, hiện đại cho công ty công nghệ. Áo polo và áo khoác nhẹ có in logo công ty."
+        },
+        {
+          "title": "Đồng Phục Trường Tiểu Học Hoa Sen",
+          "type": "Loại:",
+          "typeValue": "Đồng phục học sinh",
+          "quantity": "Số lượng:",
+          "quantityValue": "800 bộ",
+          "time": "Thời gian:",
+          "timeValue": "2023",
+          "desc": "Đồng phục học sinh tiểu học với thiết kế dễ thương, màu sắc tươi sáng. Chất liệu vải cotton mềm mại, an toàn cho trẻ em."
         }
       ]
     },
@@ -945,19 +999,19 @@
         "categories": [
           {
             "title": "Công Ty Tài Chính & Ngân Hàng",
-            "examples": "ABC Bank, XYZ Finance, TechInvest Corporation"
+            "examples": "VietinBank, Techcombank, BIDV"
           },
           {
             "title": "Công Ty Công Nghệ Thông Tin",
-            "examples": "TechPro, SoftDev, Digital Solutions"
+            "examples": "FPT Software, Viettel Solutions, VNPT"
           },
           {
             "title": "Công Ty Xây Dựng",
-            "examples": "XYZ Construction, BuildCorp, HomeBuilder"
+            "examples": "Coteccons, Hòa Bình Group, Ricons"
           },
           {
             "title": "Công Ty Sản Xuất",
-            "examples": "Manufacturing Co., Industrial Group"
+            "examples": "Vinamilk, TH True Milk, Masan Group"
           }
         ]
       },
@@ -1000,19 +1054,19 @@
       "title": "Phản Hồi Từ Khách Hàng",
       "items": [
         {
-          "author": "Chị Nguyễn Thị A - Giám đốc Công ty ABC",
+          "author": "Chị Nguyễn Thị Lan - Giám đốc Công ty Tài Chính",
           "text": "Quốc Khánh Uniform đã tạo ra bộ đồng phục tuyệt vời cho công ty chúng tôi. Chất lượng sản phẩm vượt mong đợi, giao hàng đúng hẹn và giá cả hợp lý. Chúng tôi sẽ tiếp tục hợp tác trong tương lai."
         },
         {
-          "author": "Thầy Trần Văn B - Hiệu trưởng THCS Phúc Lợi",
+          "author": "Thầy Trần Văn Bình - Hiệu trưởng THCS Phúc Lợi",
           "text": "Đồng phục học sinh của Quốc Khánh Uniform rất đẹp và bền. Phụ huynh và học sinh đều hài lòng. Dịch vụ tư vấn chuyên nghiệp, hỗ trợ tận tâm."
         },
         {
-          "author": "Anh Lê Văn C - Giám đốc Công ty Xây Dựng XYZ",
+          "author": "Anh Lê Văn Cường - Giám đốc Công ty Xây Dựng",
           "text": "Đồng phục bảo hộ của Quốc Khánh Uniform đạt tiêu chuẩn an toàn, chất lượng tốt. Công nhân cảm thấy thoải mái khi làm việc. Rất hài lòng với dịch vụ."
         },
         {
-          "author": "Chị Phạm Thị D - Quản lý Nhà hàng Đẳng Cấp",
+          "author": "Chị Phạm Thị Dung - Quản lý Nhà hàng Đẳng Cấp",
           "text": "Đồng phục nhà hàng của Quốc Khánh Uniform rất sang trọng và chuyên nghiệp. Thiết kế đẹp, chất liệu tốt. Khách hàng đánh giá cao về hình ảnh đội ngũ nhân viên."
         }
       ]

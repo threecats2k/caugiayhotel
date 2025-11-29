@@ -930,10 +930,64 @@
       "title": "Featured Projects",
       "items": [
         {
+          "title": "Financial Company Uniforms",
           "type": "Type:",
+          "typeValue": "Corporate uniforms",
           "quantity": "Quantity:",
+          "quantityValue": "500 sets",
           "time": "Time:",
-          "desc": "Modern office uniform design for ABC Company with premium shirts and vests. Company logo elegantly embroidered on shirts."
+          "timeValue": "2024",
+          "desc": "Modern office uniform design for financial company with premium shirts and vests. Company logo elegantly embroidered on shirts."
+        },
+        {
+          "title": "THCS Phuc Loi School Uniforms",
+          "type": "Type:",
+          "typeValue": "Student uniforms",
+          "quantity": "Quantity:",
+          "quantityValue": "1,200 sets",
+          "time": "Time:",
+          "timeValue": "2024",
+          "desc": "Student uniform production for all students of THCS Phuc Loi School. White shirts and navy blue pants/skirts according to Ministry of Education standards."
+        },
+        {
+          "title": "Construction Company Safety Workwear",
+          "type": "Type:",
+          "typeValue": "Safety workwear",
+          "quantity": "Quantity:",
+          "quantityValue": "800 sets",
+          "time": "Time:",
+          "timeValue": "2024",
+          "desc": "Fire-resistant safety workwear with reflective strips for construction workers. Meets occupational safety standards."
+        },
+        {
+          "title": "Elite Restaurant Uniforms",
+          "type": "Type:",
+          "typeValue": "Restaurant - hotel uniforms",
+          "quantity": "Quantity:",
+          "quantityValue": "150 sets",
+          "time": "Time:",
+          "timeValue": "2024",
+          "desc": "Elegant uniform design and manufacturing for upscale restaurant. Includes receptionist, waitstaff and chef uniforms."
+        },
+        {
+          "title": "Technology Company Uniforms",
+          "type": "Type:",
+          "typeValue": "Corporate uniforms",
+          "quantity": "Quantity:",
+          "quantityValue": "300 sets",
+          "time": "Time:",
+          "timeValue": "2023",
+          "desc": "Youthful, modern corporate uniforms for technology company. Polo shirts and light jackets with company logo printing."
+        },
+        {
+          "title": "Hoa Sen Primary School Uniforms",
+          "type": "Type:",
+          "typeValue": "Student uniforms",
+          "quantity": "Quantity:",
+          "quantityValue": "800 sets",
+          "time": "Time:",
+          "timeValue": "2023",
+          "desc": "Primary school student uniforms with cute design, bright colors. Soft cotton fabric material, safe for children."
         }
       ]
     },
@@ -945,19 +999,19 @@
         "categories": [
           {
             "title": "Financial & Banking Companies",
-            "examples": "ABC Bank, XYZ Finance, TechInvest Corporation"
+            "examples": "VietinBank, Techcombank, BIDV"
           },
           {
             "title": "Information Technology Companies",
-            "examples": "TechPro, SoftDev, Digital Solutions"
+            "examples": "FPT Software, Viettel Solutions, VNPT"
           },
           {
             "title": "Construction Companies",
-            "examples": "XYZ Construction, BuildCorp, HomeBuilder"
+            "examples": "Coteccons, Hoa Binh Group, Ricons"
           },
           {
             "title": "Manufacturing Companies",
-            "examples": "Manufacturing Co., Industrial Group"
+            "examples": "Vinamilk, TH True Milk, Masan Group"
           }
         ]
       },
@@ -1000,19 +1054,19 @@
       "title": "Client Testimonials",
       "items": [
         {
-          "author": "Ms. Nguyen Thi A - Director of ABC Company",
+          "author": "Ms. Nguyen Thi Lan - Director of Financial Company",
           "text": "Quoc Khanh Uniform created an excellent uniform set for our company. Product quality exceeded expectations, delivery was on time and pricing was reasonable. We will continue to cooperate in the future."
         },
         {
-          "author": "Mr. Tran Van B - Principal of THCS Phuc Loi",
+          "author": "Mr. Tran Van Binh - Principal of THCS Phuc Loi",
           "text": "Quoc Khanh Uniform student uniforms are very beautiful and durable. Parents and students are all satisfied. Professional consulting service, dedicated support."
         },
         {
-          "author": "Mr. Le Van C - Director of XYZ Construction Company",
+          "author": "Mr. Le Van Cuong - Director of Construction Company",
           "text": "Quoc Khanh Uniform safety workwear meets safety standards, good quality. Workers feel comfortable when working. Very satisfied with the service."
         },
         {
-          "author": "Ms. Pham Thi D - Manager of Elite Restaurant",
+          "author": "Ms. Pham Thi Dung - Manager of Elite Restaurant",
           "text": "Quoc Khanh Uniform restaurant uniforms are very elegant and professional. Beautiful design, good material. Customers highly appreciate the staff image."
         }
       ]
