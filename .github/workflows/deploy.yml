@@ -3,10 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - page
   pull_request:
     branches:
-      - main
+      - page
   workflow_dispatch:
 
 permissions:
