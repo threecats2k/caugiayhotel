@@ -50,6 +50,64 @@
             border: 2px solid var(--accent-yellow);
         }
     </style>
+    
+    <!-- Structured Data JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ReservationAction",
+        "name": "Đặt Phòng - CAUGIAY HST",
+        "description": "Hệ thống đặt phòng nghỉ dưỡng độc quyền tại CAUGIAY HST một cách an toàn",
+        "url": "https://caugiayhotel.store/booking.html",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://caugiayhotel.store/booking.html",
+            "actionPlatform": [
+                "http://schema.org/DesktopWebPlatform",
+                "http://schema.org/MobileWebPlatform"
+            ],
+            "inLanguage": "vi"
+        },
+        "object": {
+            "@type": "LodgingReservation",
+            "reservationFor": {
+                "@type": "Hotel",
+                "name": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
+                "alternateName": "CAUGIAY HST CO.,LTD",
+                "url": "https://caugiayhotel.store",
+                "telephone": "+84-24-32212666",
+                "email": "cghotel1206@gmail.com",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Số 18 ngách 6/41 phố Trần Quốc Hoàn",
+                    "addressLocality": "Phường Dịch Vọng Hậu",
+                    "addressRegion": "Quận Cầu Giấy, Hà Nội",
+                    "postalCode": "100000",
+                    "addressCountry": "VN"
+                },
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00"
+            }
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://caugiayhotel.store/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Đặt phòng",
+                    "item": "https://caugiayhotel.store/booking.html"
+                }
+            ]
+        }
+    }
+    </script>
 </head>
 <body>
     <!-- Header -->

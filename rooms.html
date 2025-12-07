@@ -45,6 +45,114 @@
     
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/i18n.js" defer></script>
+    
+    <!-- Structured Data JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Phòng Nghỉ - CAUGIAY HST",
+        "description": "Khám phá các loại phòng nghỉ đẳng cấp với đầy đủ tiện nghi tại CAUGIAY HST",
+        "url": "https://caugiayhotel.store/rooms.html",
+        "mainEntity": {
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": "HotelRoom",
+                        "name": "Phòng Deluxe Hướng Biển",
+                        "description": "Phòng nghỉ sang trọng với view hướng biển, đầy đủ tiện nghi hiện đại",
+                        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800",
+                        "occupancy": {
+                            "@type": "QuantitativeValue",
+                            "maxValue": 2
+                        },
+                        "bed": {
+                            "@type": "BedDetails",
+                            "numberOfBeds": 1,
+                            "bedType": "King"
+                        },
+                        "priceSpecification": {
+                            "@type": "PriceSpecification",
+                            "price": "2500000",
+                            "priceCurrency": "VND",
+                            "unitText": "per night"
+                        }
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@type": "HotelRoom",
+                        "name": "Suite Tổng Thống",
+                        "description": "Suite sang trọng bậc nhất với không gian rộng rãi và tiện nghi cao cấp",
+                        "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800",
+                        "occupancy": {
+                            "@type": "QuantitativeValue",
+                            "maxValue": 4
+                        },
+                        "bed": {
+                            "@type": "BedDetails",
+                            "numberOfBeds": 1,
+                            "bedType": "King"
+                        },
+                        "priceSpecification": {
+                            "@type": "PriceSpecification",
+                            "price": "5000000",
+                            "priceCurrency": "VND",
+                            "unitText": "per night"
+                        }
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@type": "HotelRoom",
+                        "name": "Phòng Standard Cao Cấp",
+                        "description": "Phòng nghỉ tiện nghi với giá cả hợp lý, phù hợp cho mọi đối tượng",
+                        "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800",
+                        "occupancy": {
+                            "@type": "QuantitativeValue",
+                            "maxValue": 2
+                        },
+                        "bed": {
+                            "@type": "BedDetails",
+                            "numberOfBeds": 1,
+                            "bedType": "Queen"
+                        },
+                        "priceSpecification": {
+                            "@type": "PriceSpecification",
+                            "price": "1800000",
+                            "priceCurrency": "VND",
+                            "unitText": "per night"
+                        }
+                    }
+                }
+            ]
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://caugiayhotel.store/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Phòng nghỉ",
+                    "item": "https://caugiayhotel.store/rooms.html"
+                }
+            ]
+        }
+    }
+    </script>
 </head>
 <body>
     <!-- Header -->
@@ -106,7 +214,7 @@
 
             <div class="rooms-grid">
                 <div class="room-card" data-room="deluxe-sea" data-capacity="2" data-bed="king">
-                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800" alt="Phòng Deluxe Hướng Biển">
+                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800" alt="Phòng Deluxe Hướng Biển tại khách sạn CAUGIAY HST Cầu Giấy - Phòng nghỉ sang trọng với view đẹp, đầy đủ tiện nghi hiện đại" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.deluxeSea.title">Phòng Deluxe Hướng Biển</h3>
                         <div class="room-price" data-i18n="rooms.deluxeSea.price">Từ 2.500.000 VNĐ / đêm</div>
@@ -120,7 +228,7 @@
                     </div>
                 </div>
                 <div class="room-card" data-room="presidential" data-capacity="4" data-bed="king">
-                    <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800" alt="Suite Tổng Thống">
+                    <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800" alt="Suite Tổng Thống tại CAUGIAY HST - Phòng suite cao cấp với không gian rộng rãi, tiện nghi sang trọng" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.presidential.title">Suite Tổng Thống</h3>
                         <div class="room-price" data-i18n="rooms.presidential.price">Từ 5.000.000 VNĐ / đêm</div>
@@ -134,7 +242,7 @@
                     </div>
                 </div>
                 <div class="room-card" data-room="standard" data-capacity="2" data-bed="queen">
-                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800" alt="Phòng Standard Cao Cấp">
+                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800" alt="Phòng Standard Cao Cấp tại CAUGIAY HST Cầu Giấy - Phòng nghỉ tiện nghi với giá hợp lý" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.standard.title">Phòng Standard Cao Cấp</h3>
                         <div class="room-price" data-i18n="rooms.standard.price">Từ 1.800.000 VNĐ / đêm</div>
@@ -148,7 +256,7 @@
                     </div>
                 </div>
                 <div class="room-card" data-room="family" data-capacity="4" data-bed="queen">
-                    <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800" alt="Phòng Gia Đình Kết Nối">
+                    <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800" alt="Phòng Gia Đình Kết Nối tại CAUGIAY HST - Phòng nghỉ lý tưởng cho gia đình với không gian rộng rãi" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.family.title">Phòng Gia Đình Kết Nối</h3>
                         <div class="room-price" data-i18n="rooms.family.price">Từ 3.500.000 VNĐ / đêm</div>
@@ -162,7 +270,7 @@
                     </div>
                 </div>
                 <div class="room-card" data-room="penthouse" data-capacity="4" data-bed="king">
-                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800" alt="Penthouse Sang Trọng">
+                    <img src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800" alt="Penthouse Sang Trọng tại CAUGIAY HST - Phòng penthouse cao cấp nhất với view đẹp và tiện nghi đẳng cấp" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.penthouse.title">Penthouse Sang Trọng</h3>
                         <div class="room-price" data-i18n="rooms.penthouse.price">Từ 6.500.000 VNĐ / đêm</div>
@@ -176,7 +284,7 @@
                     </div>
                 </div>
                 <div class="room-card" data-room="twin" data-capacity="2" data-bed="queen">
-                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800" alt="Phòng Standard Twin">
+                    <img src="https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800" alt="Phòng Standard Twin tại CAUGIAY HST - Phòng nghỉ với 2 giường đơn, phù hợp cho bạn bè hoặc đồng nghiệp" width="800" height="600">
                     <div class="room-card-content">
                         <h3 data-i18n="rooms.twin.title">Phòng Standard Twin</h3>
                         <div class="room-price" data-i18n="rooms.twin.price">Từ 1.500.000 VNĐ / đêm</div>
