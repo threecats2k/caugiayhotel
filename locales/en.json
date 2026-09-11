@@ -1,55 +1,32 @@
 {
   "meta": {
     "index": {
-      "title": "CAUGIAY HST - Premium Accommodation Experience in Cau Giay, Hanoi",
-      "description": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi. The perfect choice for short stays and business trips"
-    },
-    "about": {
-      "title": "About Us - CAUGIAY HST | About Our Company",
-      "description": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD). Legal information, mission and core values"
-    },
-    "services": {
-      "title": "Services - CAUGIAY HST | Accommodation Services & Amenities",
-      "description": "CAUGIAY HST's accommodation services & amenities: Comfortable rooms, free Wi-Fi, 24/7 room service. Premium accommodation experience in Cau Giay, Hanoi"
+      "title": "CG CO.,LTD - Mobile App Developer",
+      "description": "CG CO.,LTD builds practical mobile apps for everyday work and life for users in Vietnam."
     },
     "contact": {
-      "title": "Contact - CAUGIAY HST | Booking & Consultation",
-      "description": "Contact CAUGIAY HST - Book a room or consult about accommodation services. Address: No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi. Phone: 024 32212666"
+      "title": "Contact - CG CO.,LTD",
+      "description": "Contact CG CO.,LTD for app support or to discuss a partnership."
     },
-    "privacy": {
-      "title": "Privacy Policy - CAUGIAY HST",
-      "description": "Privacy policy of CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Commitment to protecting customer information"
+    "privacy-policy": {
+      "title": "Privacy Policy - CG CO.,LTD",
+      "description": "Privacy policy of CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY for the mobile applications it publishes."
     }
   },
   "common": {
-    "logo": "CAUGIAY HST CO.,LTD",
-    "tagline": "Dedication - Quality - Comfort",
-    "phone": "024 32212666",
-    "contactNow": "Book Now",
+    "logo": "CG CO.,LTD",
+    "tagline": "Mobile App Developer",
+    "contactNow": "Get in Touch",
     "nav": {
       "home": "Home",
-      "about": "About",
-      "rooms": "Rooms",
-      "services": "Services",
-      "gallery": "Gallery",
       "contact": "Contact",
-      "booking": "Booking",
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Premium accommodation experience in Cau Giay, Hanoi",
-      "address": "No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi",
+      "companyDesc": "Mobile app developer, part of CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY.",
       "email": "cghotel1206@gmail.com",
-      "services": "Services",
-      "info": "Information",
-      "support": "Support",
-      "accommodation": "Accommodation Services",
-      "amenities": "Hotel Amenities",
-      "roomService": "24/7 Room Service",
-      "wifi": "Free Wi-Fi",
-      "aboutUs": "About Us",
-      "companyInfo": "Company Information",
-      "copyright": "2024 CAUGIAY HST CO.,LTD. Tax ID: 0108599237"
+      "info": "Links",
+      "copyright": "2026 CG CO.,LTD."
     },
     "breadcrumb": {
       "home": "Home"
@@ -57,272 +34,82 @@
   },
   "index": {
     "hero": {
-      "title": "Premium Accommodation Experience in Cau Giay, Hanoi",
-      "subtitle": "The perfect choice for short stays and business trips",
-      "bookNow": "Book Now",
-      "learnMore": "Learn More"
+      "title": "Lightweight mobile apps, useful every day",
+      "subtitle": "We build practical mobile apps for everyday work and life.",
+      "viewApps": "View Apps",
+      "partner": "Get in Touch"
     },
     "about": {
-      "title": "Welcome to CAUGIAY HST",
-      "subtitle": "We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality. At CAUGIAY HST, every detail is carefully crafted to ensure maximum customer satisfaction."
+      "title": "About CG CO.,LTD",
+      "subtitle": "A Vietnamese company operating since 2019, now expanding into mobile app development with quality and user experience as our priority."
     },
-    "services": {
-      "title": "Accommodation Services & Amenities",
-      "subtitle": "Discover premium services and amenities at our hotel",
-      "rooms": {
-        "title": "Comfortable Rooms",
-        "desc": "Clean, modern rooms with full amenities, spacious space and natural light",
-        "detail": "Details →"
+    "apps": {
+      "title": "Our Apps",
+      "subtitle": "Apps we have published on Google Play, built for retro gaming on mobile.",
+      "getOnPlay": "Get it on Google Play",
+      "pixboy": {
+        "title": "PixBoy: GBA Retro Emulator",
+        "desc": "Play retro GBA games on your phone with a customizable on-screen controller and game skins.",
+        "tag": "Games"
       },
-      "wifi": {
-        "title": "Free Wi-Fi",
-        "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment",
-        "detail": "Details →"
-      },
-      "service": {
-        "title": "24/7 Room Service",
-        "desc": "Professional staff ready to serve you 24/7 with dedicated and attentive attitude",
-        "detail": "Details →"
-      },
-      "location": {
-        "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas",
-        "detail": "Details →"
+      "gamepad": {
+        "title": "GamePad Controller: Handheld",
+        "desc": "Turn your phone into a full-screen handheld gamepad and connect to consoles over Wi-Fi.",
+        "tag": "Tools"
       }
     },
     "whyChoose": {
-      "title": "Why Choose CAUGIAY HST?",
-      "dedication": {
-        "title": "Dedicated Service",
-        "desc": "Professional staff, always ready to serve with dedicated and attentive attitude"
-      },
+      "title": "Why Choose Us",
       "quality": {
-        "title": "Service Quality",
-        "desc": "Commitment to providing high-quality accommodation services with clean, comfortable and modern spaces"
+        "title": "Quality",
+        "desc": "Every app is thoroughly tested before release, prioritizing a smooth and stable experience."
       },
-      "comfort": {
-        "title": "Comfortable Space",
-        "desc": "Rooms fully equipped with amenities, spacious space creating absolute relaxation"
+      "security": {
+        "title": "User Data Security",
+        "desc": "User data is handled transparently, in line with our published privacy policy."
       },
-      "location": {
-        "title": "Convenient Location",
-        "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas"
+      "support": {
+        "title": "User Support",
+        "desc": "Our support team responds to questions and feedback by email as soon as possible."
       },
-      "wifi": {
-        "title": "Free Wi-Fi",
-        "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment"
-      },
-      "service": {
-        "title": "24/7 Service",
-        "desc": "Room service and customer support 24/7, ensuring all your needs are met"
+      "updates": {
+        "title": "Regular Updates",
+        "desc": "Apps are continuously improved based on real feedback from users."
       }
     },
     "cta": {
-      "title": "Experience Premium Accommodation Today",
-      "subtitle": "Contact us to book a room or learn more about our services",
-      "contact": "Book Now",
-      "call": "Call: 024 32212666"
+      "title": "Need support or want to partner with us?",
+      "subtitle": "Contact us for app support or to discuss a partnership opportunity.",
+      "contact": "Get in Touch"
     }
   },
   "contact": {
     "pageTitle": "Contact Us",
-    "pageSubtitle": "We are ready to advise and support you",
+    "pageSubtitle": "We are ready to support you with an app or discuss a partnership opportunity.",
     "breadcrumb": "Contact",
     "contactInfo": {
       "title": "Contact Information",
-      "address": "📍 Address:",
-      "phone": "📞 Phone:",
-      "email": "📧 Email:",
-      "hours": "🕒 Service Hours:",
-      "taxId": "🏢 Tax ID:",
-      "workingHours": "24/7 - Accommodation services and customer support"
-    },
-    "map": {
-      "title": "Directions Map",
-      "address": "📍 No. 18, Alley 6/41 Tran Quoc Hoan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi"
+      "subtitle": "Reach us through the channels below.",
+      "emailLabel": "Email"
     },
     "form": {
-      "title": "Send Booking/Consultation Request",
+      "title": "Send Us a Request",
+      "subtitle": "Fill out the form below for app support requests or business partnership proposals.",
       "name": "Full Name *",
       "namePlaceholder": "Enter your full name",
       "phone": "Phone Number *",
       "phonePlaceholder": "Enter phone number",
       "email": "Email",
       "emailPlaceholder": "Enter email address",
-      "service": "Request Type",
-      "serviceSelect": "-- Select request type --",
-      "serviceBooking": "Room Booking",
-      "serviceConsultation": "Service Consultation",
-      "serviceOther": "Other",
-      "checkin": "Check-in Date (if booking)",
-      "checkinPlaceholder": "Select date",
-      "message": "Request Details *",
-      "messagePlaceholder": "Describe your requirements in detail...",
+      "message": "Message",
+      "messagePlaceholder": "Describe your request in detail...",
       "submit": "Send Request"
     },
     "modal": {
       "title": "Thank you for contacting us!",
-      "message": "We have received your booking/consultation request. Our staff will contact you soon.",
+      "message": "We have received your request. Our team will get back to you soon by email or phone.",
       "note": "We typically respond within 24 hours.",
       "button": "Got it"
-    }
-  },
-  "about": {
-    "pageTitle": "About Us",
-    "pageSubtitle": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD)",
-    "breadcrumb": "About",
-    "intro": {
-      "title": "About CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
-      "desc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD) was established on January 23, 2019, specializing in short-term accommodation services (Hotel). We are committed to providing you with an excellent accommodation experience with comfortable spaces, dedicated service and premium quality."
-    },
-    "legal": {
-      "title": "Legal Information",
-      "name": "Full Name:",
-      "shortName": "Abbreviation:",
-      "taxID": "Tax ID:",
-      "address": "Address:",
-      "representative": "Representative:",
-      "foundingDate": "Establishment Date (Operation):",
-      "industry": "Main Industry:"
-    },
-    "mission": {
-      "title": "Mission & Core Values",
-      "missionTitle": "Mission",
-      "missionDesc": "We are committed to providing you with a premium accommodation experience with dedicated service, comfortable spaces and the highest quality of service. Every customer is treated with respect and careful attention.",
-      "valuesTitle": "Core Values",
-      "values": [
-        "Dedication: Professional staff, always ready to serve with dedicated and attentive attitude",
-        "Service Quality: Commitment to providing high-quality accommodation services with clean, comfortable and modern spaces",
-        "Comfortable Space: Rooms fully equipped with amenities, spacious space creating absolute relaxation"
-      ]
-    },
-    "contact": {
-      "title": "Address & Contact",
-      "headquarters": "Address:",
-      "phone": "Phone:",
-      "email": "Email:",
-      "workingHours": "Service Hours:",
-      "hours": "24/7 - Accommodation services and customer support"
-    }
-  },
-  "services": {
-    "pageTitle": "Accommodation Services & Amenities",
-    "pageSubtitle": "Premium accommodation experience in Cau Giay, Hanoi",
-    "breadcrumb": "Services",
-    "rooms": {
-      "title": "🛏️ Comfortable Rooms",
-      "desc": "Clean, modern rooms with full amenities, spacious space and natural light. Each room is fully equipped to ensure comfort and convenience for guests.",
-      "featuresTitle": "Room Amenities",
-      "features": [
-        {
-          "title": "Comfortable Beds",
-          "desc": "Spacious double beds with high-quality mattresses, clean bed linens, ensuring good sleep"
-        },
-        {
-          "title": "Spacious Space",
-          "desc": "Rooms with spacious space, natural light, creating absolute relaxation"
-        },
-        {
-          "title": "Clean & Hygienic",
-          "desc": "Rooms are thoroughly cleaned daily, ensuring clean and safe environment"
-        },
-        {
-          "title": "Full Amenities",
-          "desc": "Wardrobe, work desk, TV, air conditioning, mini fridge and other necessary amenities"
-        }
-      ]
-    },
-    "wifi": {
-      "title": "📶 Free Wi-Fi",
-      "desc": "High-speed internet connection free throughout the hotel area, serving work and entertainment. Guests can work, study or enjoy online entertainment conveniently.",
-      "featuresTitle": "Features",
-      "features": [
-        "High-speed, stable internet 24/7",
-        "Coverage throughout the hotel area",
-        "Free for all guests",
-        "High security, safe for work"
-      ]
-    },
-    "service": {
-      "title": "🕐 24/7 Room Service",
-      "desc": "Professional staff ready to serve you 24/7 with dedicated and attentive attitude. All your requests are met quickly and efficiently.",
-      "featuresTitle": "Services Provided",
-      "features": [
-        "Flexible booking and check-in/check-out support",
-        "Daily room cleaning service",
-        "24/7 customer support via phone",
-        "Consultation and support on locations, transportation"
-      ]
-    },
-    "location": {
-      "title": "📍 Convenient Location",
-      "desc": "Located in the center of Cau Giay District, easy access to tourist attractions and business areas. Convenient location for both tourists and business travelers.",
-      "advantagesTitle": "Location Advantages",
-      "advantages": [
-        "Near city center, easy to move around",
-        "Close to tourist attractions, shopping and entertainment",
-        "Convenient for business travelers, near business areas",
-        "Easy access to public transportation"
-      ]
-    },
-    "ctaTitle": "Need to Book or Consult?",
-    "ctaDesc": "Contact us to book a room or learn more about our services",
-    "ctaContact": "Book Now",
-    "ctaCall": "Call: 024 32212666"
-  },
-  "companyInfo": {
-    "pageTitle": "Company Information",
-    "pageSubtitle": "Business registration and legal information",
-    "breadcrumb": "Company Information",
-    "businessInfo": {
-      "title": "Business Registration Information",
-      "labels": {
-        "nameVi": "Company Name (Vietnamese):",
-        "nameEn": "Company Name (English):",
-        "abbreviation": "Abbreviation:",
-        "taxId": "Tax ID (MST):",
-        "activityDate": "Activity Date:",
-        "status": "Business Status:",
-        "managedBy": "Managed By:",
-        "taxAddress": "Tax Address:",
-        "headquarters": "Headquarters Address:",
-        "phone": "Phone:",
-        "email": "Email:"
-      },
-      "statusActive": "Active"
-    },
-    "businessActivities": {
-      "title": "Business Industry Information",
-      "mainIndustry": {
-        "label": "Main Industry:",
-        "value": "Short-term accommodation services (Hotel)"
-      },
-      "activityAreas": {
-        "label": "Activity Areas:",
-        "items": [
-          "Short-term accommodation services",
-          "Room rental",
-          "24/7 room service",
-          "Hotel amenities (Wi-Fi, room service)"
-        ]
-      }
-    },
-    "contactInfo": {
-      "title": "Contact Information",
-      "workingHours": {
-        "label": "Service Hours:",
-        "value": "24/7 - Accommodation and customer support services"
-      },
-      "website": {
-        "label": "Website:",
-        "value": "https://caugiayhotel.store"
-      }
-    },
-    "cta": {
-      "title": "Need to Contact Us?",
-      "desc": "We are ready to consult and support you",
-      "contact": "Contact Now",
-      "call": "Call: 024 32212666"
     }
   }
 }

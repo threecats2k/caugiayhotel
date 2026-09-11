@@ -3,7 +3,7 @@
     'use strict';
 
     let translations = {};
-    let currentLang = localStorage.getItem('lang') || 'vi';
+    let currentLang = localStorage.getItem('lang') || 'en';
     
     // Get page name from current URL
     function getPageName() {

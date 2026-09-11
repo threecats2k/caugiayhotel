@@ -1,51 +1,32 @@
 {
   "meta": {
     "index": {
-      "title": "CAUGIAY HST - Trải Nghiệm Lưu Trú Đẳng Cấp Tại Cầu Giấy, Hà Nội",
-      "description": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội. Sự lựa chọn hoàn hảo cho kỳ nghỉ ngắn ngày và chuyến công tác của bạn"
-    },
-    "about": {
-      "title": "Giới thiệu - CAUGIAY HST | Về Chúng Tôi",
-      "description": "Về Chúng Tôi - CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD). Thông tin pháp lý, sứ mệnh và giá trị cốt lõi của chúng tôi"
-    },
-    "services": {
-      "title": "Dịch Vụ - CAUGIAY HST | Dịch Vụ Lưu Trú & Tiện Ích",
-      "description": "Dịch vụ lưu trú & tiện ích của CAUGIAY HST: Phòng ốc tiện nghi, Wi-Fi miễn phí, dịch vụ phòng 24/7. Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội"
+      "title": "CG CO.,LTD - Nhà Phát Triển Ứng Dụng Di Động",
+      "description": "CG CO.,LTD phát triển các ứng dụng di động thiết thực cho công việc và đời sống hằng ngày của người dùng Việt Nam."
     },
     "contact": {
-      "title": "Liên Hệ - CAUGIAY HST | Đặt Phòng & Tư Vấn",
-      "description": "Liên hệ với CAUGIAY HST - Đặt phòng hoặc tư vấn dịch vụ lưu trú. Địa chỉ: Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội. Điện thoại: 024 32212666"
+      "title": "Liên Hệ - CG CO.,LTD",
+      "description": "Liên hệ với CG CO.,LTD để được hỗ trợ ứng dụng hoặc trao đổi cơ hội hợp tác."
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy - CG CO.,LTD",
+      "description": "Chính sách quyền riêng tư của CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY cho các ứng dụng di động do công ty phát hành."
     }
   },
   "common": {
-    "logo": "CAUGIAY HST CO.,LTD",
-    "tagline": "Tận Tâm - Chất Lượng - Tiện Nghi",
-    "phone": "024 32212666",
-    "contactNow": "Đặt phòng ngay",
+    "logo": "CG CO.,LTD",
+    "tagline": "Nhà Phát Triển Ứng Dụng Di Động",
+    "contactNow": "Liên hệ hợp tác",
     "nav": {
       "home": "Trang chủ",
-      "about": "Giới thiệu",
-      "rooms": "Phòng nghỉ",
-      "services": "Dịch vụ",
-      "gallery": "Thư viện ảnh",
       "contact": "Liên hệ",
-      "booking": "Đặt phòng",
       "menu": "Menu"
     },
     "footer": {
-      "companyDesc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY - Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội",
-      "address": "Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",
+      "companyDesc": "Nhà phát triển ứng dụng di động, thuộc CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY.",
       "email": "cghotel1206@gmail.com",
-      "services": "Dịch vụ",
-      "info": "Thông tin",
-      "support": "Hỗ trợ",
-      "accommodation": "Dịch vụ lưu trú",
-      "amenities": "Tiện ích khách sạn",
-      "roomService": "Dịch vụ phòng 24/7",
-      "wifi": "Wi-Fi miễn phí",
-      "aboutUs": "Về chúng tôi",
-      "companyInfo": "Thông tin doanh nghiệp",
-      "copyright": "2024 CAUGIAY HST CO.,LTD. MST: 0108599237"
+      "info": "Liên kết",
+      "copyright": "2026 CG CO.,LTD."
     },
     "breadcrumb": {
       "home": "Trang chủ"
@@ -53,119 +34,67 @@
   },
   "index": {
     "hero": {
-      "title": "Trải Nghiệm Lưu Trú Đẳng Cấp Tại Cầu Giấy, Hà Nội",
-      "subtitle": "Sự lựa chọn hoàn hảo cho kỳ nghỉ ngắn ngày và chuyến công tác của bạn",
-      "bookNow": "Đặt Phòng Ngay",
-      "learnMore": "Tìm Hiểu Thêm"
+      "title": "Ứng dụng di động gọn nhẹ, hữu ích mỗi ngày",
+      "subtitle": "Chúng tôi phát triển các ứng dụng di động thiết thực cho công việc và đời sống hằng ngày.",
+      "viewApps": "Xem ứng dụng",
+      "partner": "Liên hệ hợp tác"
     },
     "about": {
-      "title": "Chào Mừng Đến Với CAUGIAY HST",
-      "subtitle": "Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú tuyệt vời với không gian tiện nghi, dịch vụ tận tâm và chất lượng đẳng cấp. Tại CAUGIAY HST, mỗi chi tiết đều được chăm chút để đảm bảo sự hài lòng tối đa của khách hàng."
+      "title": "Về CG CO.,LTD",
+      "subtitle": "Là một doanh nghiệp Việt Nam hoạt động từ năm 2019, chúng tôi mở rộng sang phát triển ứng dụng di động, đặt chất lượng và trải nghiệm người dùng lên hàng đầu."
     },
-    "services": {
-      "title": "Dịch Vụ Lưu Trú & Tiện Ích",
-      "subtitle": "Khám phá các dịch vụ và tiện ích đẳng cấp tại khách sạn của chúng tôi",
-      "rooms": {
-        "title": "Phòng Ốc Tiện Nghi",
-        "desc": "Phòng nghỉ sạch sẽ, hiện đại với đầy đủ tiện nghi, không gian thoáng đãng và ánh sáng tự nhiên",
-        "detail": "Chi tiết →"
+    "apps": {
+      "title": "Ứng dụng của chúng tôi",
+      "subtitle": "Các ứng dụng đã phát hành trên Google Play, dành cho trải nghiệm chơi game retro trên điện thoại.",
+      "getOnPlay": "Tải trên Google Play",
+      "pixboy": {
+        "title": "PixBoy: GBA Retro Emulator",
+        "desc": "Chơi lại các tựa game GBA kinh điển trên điện thoại với tay cầm ảo tuỳ chỉnh và skin giao diện đa dạng.",
+        "tag": "Trò chơi"
       },
-      "wifi": {
-        "title": "Wi-Fi Miễn Phí",
-        "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí",
-        "detail": "Chi tiết →"
-      },
-      "service": {
-        "title": "Dịch Vụ Phòng 24/7",
-        "desc": "Đội ngũ nhân viên chuyên nghiệp sẵn sàng phục vụ quý khách 24/7 với thái độ tận tâm, chu đáo",
-        "detail": "Chi tiết →"
-      },
-      "location": {
-        "title": "Vị Trí Thuận Tiện",
-        "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh",
-        "detail": "Chi tiết →"
-      }
-    },
-    "rooms": {
-      "title": "Các Loại Phòng",
-      "subtitle": "Khám phá các loại phòng nghỉ đẳng cấp của chúng tôi",
-      "filterAll": "Tất cả",
-      "filterCapacity2": "Sức chứa: 2 người",
-      "filterCapacity4": "Sức chứa: 4 người",
-      "filterBedKing": "Loại giường: King",
-      "filterBedQueen": "Loại giường: Queen",
-      "viewDetails": "Xem chi tiết",
-      "deluxeSea": {
-        "title": "Phòng Deluxe Hướng Biển",
-        "price": "Từ 2.500.000 VNĐ / đêm"
-      },
-      "presidential": {
-        "title": "Suite Tổng Thống",
-        "price": "Từ 5.000.000 VNĐ / đêm"
-      },
-      "standard": {
-        "title": "Phòng Standard Cao Cấp",
-        "price": "Từ 1.800.000 VNĐ / đêm"
+      "gamepad": {
+        "title": "GamePad Controller: Handheld",
+        "desc": "Biến điện thoại thành tay cầm chơi game toàn màn hình, kết nối tới console qua Wi-Fi.",
+        "tag": "Công cụ"
       }
     },
     "whyChoose": {
-      "title": "Tại Sao Chọn CAUGIAY HST?",
-      "dedication": {
-        "title": "Tận Tâm Phục Vụ",
-        "desc": "Đội ngũ nhân viên chuyên nghiệp, luôn sẵn sàng phục vụ với thái độ tận tâm và chu đáo"
-      },
+      "title": "Vì sao chọn chúng tôi",
       "quality": {
-        "title": "Chất Lượng Dịch Vụ",
-        "desc": "Cam kết mang đến dịch vụ lưu trú chất lượng cao với không gian sạch sẽ, tiện nghi và hiện đại"
+        "title": "Chất lượng",
+        "desc": "Mỗi ứng dụng được kiểm thử kỹ trước khi phát hành, ưu tiên trải nghiệm mượt mà và ổn định."
       },
-      "comfort": {
-        "title": "Không Gian Tiện Nghi",
-        "desc": "Phòng nghỉ được trang bị đầy đủ tiện nghi, không gian thoáng đãng tạo cảm giác thư giãn tuyệt đối"
+      "security": {
+        "title": "Bảo mật dữ liệu người dùng",
+        "desc": "Dữ liệu người dùng được xử lý minh bạch, đúng theo chính sách quyền riêng tư đã công bố."
       },
-      "location": {
-        "title": "Vị Trí Thuận Tiện",
-        "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh"
+      "support": {
+        "title": "Hỗ trợ người dùng",
+        "desc": "Đội ngũ hỗ trợ phản hồi các thắc mắc và góp ý qua email trong thời gian sớm nhất."
       },
-      "wifi": {
-        "title": "Wi-Fi Miễn Phí",
-        "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí"
-      },
-      "service": {
-        "title": "Dịch Vụ 24/7",
-        "desc": "Dịch vụ phòng và hỗ trợ khách hàng 24/7, đảm bảo mọi nhu cầu của quý khách đều được đáp ứng"
+      "updates": {
+        "title": "Cập nhật thường xuyên",
+        "desc": "Ứng dụng được cải tiến liên tục dựa trên phản hồi thực tế từ người dùng."
       }
     },
     "cta": {
-      "title": "Trải Nghiệm Lưu Trú Đẳng Cấp Ngay Hôm Nay",
-      "subtitle": "Liên hệ với chúng tôi để đặt phòng hoặc tìm hiểu thêm về dịch vụ của chúng tôi",
-      "contact": "Đặt Phòng Ngay",
-      "call": "Gọi: 024 32212666"
+      "title": "Cần hỗ trợ hoặc muốn hợp tác?",
+      "subtitle": "Liên hệ với chúng tôi để được hỗ trợ về ứng dụng hoặc trao đổi cơ hội hợp tác.",
+      "contact": "Liên hệ hợp tác"
     }
   },
   "contact": {
     "pageTitle": "Liên hệ với chúng tôi",
-    "pageSubtitle": "Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn 24/7.",
+    "pageSubtitle": "Chúng tôi sẵn sàng hỗ trợ về ứng dụng hoặc trao đổi cơ hội hợp tác.",
     "breadcrumb": "Liên hệ",
     "contactInfo": {
       "title": "Thông tin liên hệ",
       "subtitle": "Kết nối với chúng tôi qua các kênh dưới đây.",
-      "addressLabel": "Địa chỉ",
-      "phoneLabel": "Số điện thoại",
-      "emailLabel": "Email",
-      "address": "📍 Địa chỉ:",
-      "phone": "📞 Điện thoại:",
-      "email": "📧 Email:",
-      "hours": "🕒 Thời gian phục vụ:",
-      "taxId": "🏢 MST:",
-      "workingHours": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
-    },
-    "map": {
-      "title": "Tìm chúng tôi trên bản đồ",
-      "address": "📍 Số 18 ngách 6/41 phố Trần Quốc Hoàn, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội"
+      "emailLabel": "Email"
     },
     "form": {
       "title": "Gửi yêu cầu cho chúng tôi",
-      "subtitle": "Điền vào biểu mẫu bên dưới và chúng tôi sẽ liên hệ lại với bạn sớm nhất.",
+      "subtitle": "Điền vào biểu mẫu bên dưới, dùng cho yêu cầu hỗ trợ ứng dụng hoặc đề xuất hợp tác kinh doanh.",
       "name": "Họ và tên *",
       "namePlaceholder": "Nguyễn Văn A",
       "phone": "Số điện thoại *",
@@ -178,306 +107,9 @@
     },
     "modal": {
       "title": "Cảm ơn bạn đã liên hệ!",
-      "message": "Chúng tôi đã nhận được yêu cầu đặt phòng/tư vấn của bạn. Đội ngũ nhân viên sẽ sớm liên hệ với bạn trong thời gian sớm nhất.",
+      "message": "Chúng tôi đã nhận được yêu cầu của bạn. Đội ngũ sẽ sớm phản hồi qua email hoặc số điện thoại bạn cung cấp.",
       "note": "Thông thường chúng tôi sẽ phản hồi trong vòng 24 giờ.",
       "button": "Đã hiểu"
-    }
-  },
-  "about": {
-    "pageTitle": "Giới Thiệu Công Ty",
-    "pageSubtitle": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD)",
-    "breadcrumb": "Giới thiệu",
-    "intro": {
-      "title": "Về CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY",
-      "desc": "CÔNG TY TNHH THƯƠNG MẠI, DỊCH VỤ, KHÁCH SẠN CẦU GIẤY (CAUGIAY HST CO.,LTD) được thành lập vào ngày 23 tháng 01 năm 2019, chuyên hoạt động trong lĩnh vực dịch vụ lưu trú ngắn ngày (Khách sạn). Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú tuyệt vời với không gian tiện nghi, dịch vụ tận tâm và chất lượng đẳng cấp."
-    },
-    "legal": {
-      "title": "Thông Tin Pháp Lý",
-      "name": "Tên đầy đủ:",
-      "shortName": "Tên viết tắt:",
-      "taxID": "Mã số thuế:",
-      "address": "Địa chỉ:",
-      "representative": "Người đại diện:",
-      "foundingDate": "Ngày thành lập (Hoạt động):",
-      "industry": "Ngành nghề chính:"
-    },
-    "mission": {
-      "title": "Sứ Mệnh & Giá Trị Cốt Lõi",
-      "missionTitle": "Sứ Mệnh",
-      "missionDesc": "Chúng tôi cam kết mang đến cho quý khách trải nghiệm lưu trú đẳng cấp với dịch vụ tận tâm, không gian tiện nghi và chất lượng phục vụ cao nhất. Mỗi khách hàng đều được đối xử với sự tôn trọng và chăm sóc chu đáo.",
-      "valuesTitle": "Giá Trị Cốt Lõi",
-      "values": [
-        "Tận Tâm: Đội ngũ nhân viên chuyên nghiệp, luôn sẵn sàng phục vụ với thái độ tận tâm và chu đáo",
-        "Chất Lượng Dịch Vụ: Cam kết mang đến dịch vụ lưu trú chất lượng cao với không gian sạch sẽ, tiện nghi và hiện đại",
-        "Không Gian Tiện Nghi: Phòng nghỉ được trang bị đầy đủ tiện nghi, không gian thoáng đãng tạo cảm giác thư giãn tuyệt đối"
-      ]
-    },
-    "contact": {
-      "title": "Địa Chỉ & Liên Hệ",
-      "headquarters": "Địa chỉ:",
-      "phone": "Điện thoại:",
-      "email": "Email:",
-      "workingHours": "Thời gian phục vụ:",
-      "hours": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
-    }
-  },
-  "services": {
-    "pageTitle": "Dịch Vụ Lưu Trú & Tiện Ích",
-    "pageSubtitle": "Trải nghiệm lưu trú đẳng cấp tại Cầu Giấy, Hà Nội",
-    "breadcrumb": "Dịch vụ",
-    "featured": {
-      "title": "Trải Nghiệm Tiện Nghi Vượt Trội",
-      "subtitle": "Tại CAUGIAY HST, chúng tôi cam kết mang đến những tiện nghi hiện đại và dịch vụ tận tâm nhất, giúp mỗi khoảnh khắc của quý khách đều trở nên đáng nhớ.",
-      "spa": {
-        "title": "Khu Spa & Massage",
-        "desc": "Thư giãn và tái tạo năng lượng với các liệu pháp spa độc đáo",
-        "link": "Xem Chi Tiết →"
-      },
-      "restaurant": {
-        "title": "Nhà Hàng & Bar",
-        "desc": "Thưởng thức ẩm thực đẳng cấp với nguyên liệu tươi ngon",
-        "link": "Xem Thực Đơn →"
-      },
-      "pool": {
-        "title": "Hồ Bơi Vô Cực",
-        "desc": "Tận hưởng làn nước mát lạnh và cảnh quan thiên nhiên từ hồ bơi vô cực trên cao",
-        "link": "Khám Phá Thêm →"
-      },
-      "gym": {
-        "title": "Phòng Gym & Yoga",
-        "desc": "Trang thiết bị hiện đại và các lớp yoga chuyên nghiệp",
-        "link": "Xem Lịch Tập →"
-      }
-    },
-    "other": {
-      "title": "Các Dịch Vụ Khác",
-      "airport": {
-        "title": "Đưa Đón Sân Bay",
-        "desc": "Dịch vụ xe riêng sang trọng, tiện lợi và an toàn"
-      },
-      "events": {
-        "title": "Tổ Chức Sự Kiện",
-        "desc": "Địa điểm lý tưởng cho đám cưới, hội nghị và sự kiện"
-      },
-      "roomService": {
-        "title": "Dịch Vụ Tại Phòng",
-        "desc": "Dịch vụ 24/7 đáp ứng mọi yêu cầu của khách"
-      },
-      "tours": {
-        "title": "Tour Du Lịch",
-        "desc": "Khám phá vẻ đẹp địa phương với các tour được thiết kế riêng"
-      }
-    },
-    "rooms": {
-      "title": "🛏️ Phòng Ốc Tiện Nghi",
-      "desc": "Phòng nghỉ sạch sẽ, hiện đại với đầy đủ tiện nghi, không gian thoáng đãng và ánh sáng tự nhiên. Mỗi phòng được trang bị đầy đủ để đảm bảo sự thoải mái và tiện nghi cho quý khách.",
-      "featuresTitle": "Tiện Ích Phòng",
-      "features": [
-        {
-          "title": "Giường Nghỉ Thoải Mái",
-          "desc": "Giường đôi rộng rãi với nệm chất lượng cao, ga gối sạch sẽ, đảm bảo giấc ngủ ngon"
-        },
-        {
-          "title": "Không Gian Thoáng Đãng",
-          "desc": "Phòng nghỉ với không gian rộng rãi, ánh sáng tự nhiên, tạo cảm giác thư giãn tuyệt đối"
-        },
-        {
-          "title": "Vệ Sinh Sạch Sẽ",
-          "desc": "Phòng được vệ sinh kỹ lưỡng hàng ngày, đảm bảo môi trường sạch sẽ, an toàn"
-        },
-        {
-          "title": "Đầy Đủ Tiện Nghi",
-          "desc": "Tủ quần áo, bàn làm việc, TV, điều hòa, tủ lạnh mini và các tiện ích cần thiết khác"
-        }
-      ]
-    },
-    "wifi": {
-      "title": "📶 Wi-Fi Miễn Phí",
-      "desc": "Kết nối internet tốc độ cao miễn phí trong toàn bộ khu vực khách sạn, phục vụ công việc và giải trí. Quý khách có thể làm việc, học tập hoặc giải trí trực tuyến một cách thuận tiện.",
-      "featuresTitle": "Đặc Điểm",
-      "features": [
-        "Tốc độ internet cao, ổn định 24/7",
-        "Phủ sóng toàn bộ khu vực khách sạn",
-        "Miễn phí cho tất cả khách hàng",
-        "Bảo mật cao, an toàn cho công việc"
-      ]
-    },
-    "service": {
-      "title": "🕐 Dịch Vụ Phòng 24/7",
-      "desc": "Đội ngũ nhân viên chuyên nghiệp sẵn sàng phục vụ quý khách 24/7 với thái độ tận tâm, chu đáo. Mọi yêu cầu của quý khách đều được đáp ứng nhanh chóng và hiệu quả.",
-      "featuresTitle": "Dịch Vụ Cung Cấp",
-      "features": [
-        "Hỗ trợ đặt phòng và check-in/check-out linh hoạt",
-        "Dịch vụ dọn phòng hàng ngày",
-        "Hỗ trợ khách hàng 24/7 qua điện thoại",
-        "Tư vấn và hỗ trợ về địa điểm, phương tiện đi lại"
-      ]
-    },
-    "location": {
-      "title": "📍 Vị Trí Thuận Tiện",
-      "desc": "Tọa lạc tại trung tâm quận Cầu Giấy, dễ dàng di chuyển đến các điểm du lịch và khu vực kinh doanh. Vị trí thuận tiện cho cả khách du lịch và khách công tác.",
-      "advantagesTitle": "Ưu Điểm Vị Trí",
-      "advantages": [
-        "Gần trung tâm thành phố, dễ dàng di chuyển",
-        "Gần các điểm du lịch, mua sắm và giải trí",
-        "Thuận tiện cho khách công tác, gần các khu vực kinh doanh",
-        "Dễ dàng tiếp cận các phương tiện giao thông công cộng"
-      ]
-    },
-    "ctaTitle": "Bạn Cần Đặt Phòng Hoặc Tư Vấn?",
-    "ctaDesc": "Liên hệ với chúng tôi để đặt phòng hoặc tìm hiểu thêm về dịch vụ của chúng tôi",
-    "ctaContact": "Đặt Phòng Ngay",
-    "ctaCall": "Gọi: 024 32212666"
-  },
-  "companyInfo": {
-    "pageTitle": "Thông Tin Doanh Nghiệp",
-    "pageSubtitle": "Thông tin đăng ký kinh doanh và pháp lý",
-    "breadcrumb": "Thông tin doanh nghiệp",
-    "businessInfo": {
-      "title": "Thông Tin Đăng Ký Kinh Doanh",
-      "labels": {
-        "nameVi": "Tên công ty (Tiếng Việt):",
-        "nameEn": "Tên công ty (Tiếng Anh):",
-        "abbreviation": "Tên viết tắt:",
-        "taxId": "Mã số thuế (MST):",
-        "activityDate": "Ngày hoạt động:",
-        "status": "Tình trạng doanh nghiệp:",
-        "managedBy": "Quản lý bởi:",
-        "taxAddress": "Địa chỉ thuế:",
-        "headquarters": "Địa chỉ trụ sở:",
-        "phone": "Điện thoại:",
-        "email": "Email:"
-      },
-      "statusActive": "Đang hoạt động"
-    },
-    "businessActivities": {
-      "title": "Thông Tin Ngành Nghề Kinh Doanh",
-      "mainIndustry": {
-        "label": "Ngành nghề chính:",
-        "value": "Dịch vụ lưu trú ngắn ngày (Khách sạn)"
-      },
-      "activityAreas": {
-        "label": "Lĩnh vực hoạt động:",
-        "items": [
-          "Dịch vụ lưu trú ngắn ngày",
-          "Cho thuê phòng nghỉ",
-          "Dịch vụ phòng 24/7",
-          "Tiện ích khách sạn (Wi-Fi, dịch vụ phòng)"
-        ]
-      }
-    },
-    "contactInfo": {
-      "title": "Thông Tin Liên Hệ",
-      "workingHours": {
-        "label": "Thời gian phục vụ:",
-        "value": "24/7 - Dịch vụ lưu trú và hỗ trợ khách hàng"
-      },
-      "website": {
-        "label": "Website:",
-        "value": "https://caugiayhotel.store"
-      }
-    },
-    "cta": {
-      "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
-      "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
-      "contact": "Liên hệ ngay",
-      "call": "Gọi: 024 32212666"
-    }
-  },
-  "gallery": {
-    "pageTitle": "Bộ Sưu Tập",
-    "pageSubtitle": "Khám phá vẻ đẹp sang trọng và tiện nghi đẳng cấp tại nhà nghỉ của chúng tôi.",
-    "breadcrumb": "Thư viện ảnh",
-    "filterAll": "Tất cả",
-    "filterInterior": "Nội thất",
-    "filterExterior": "Ngoại thất",
-    "filterAmenities": "Tiện ích",
-    "filterVideo": "Video",
-    "items": {
-      "presidential": {
-        "title": "Phòng Tổng thống sang trọng"
-      },
-      "poolView": {
-        "title": "View hồ bơi buổi hoàng hôn"
-      },
-      "lounge": {
-        "title": "Khu vực sảnh chờ thanh lịch"
-      },
-      "videoTour": {
-        "title": "Video tour toàn cảnh nhà nghỉ"
-      },
-      "bathroom": {
-        "title": "Phòng tắm tiện nghi hiện đại"
-      },
-      "garden": {
-        "title": "Khu vườn xanh mát"
-      },
-      "bar": {
-        "title": "Quầy bar cao cấp"
-      },
-      "gym": {
-        "title": "Phòng tập gym đầy đủ thiết bị"
-      },
-      "restaurant": {
-        "title": "Nhà hàng ẩm thực Á-Âu"
-      },
-      "exteriorNight": {
-        "title": "Ngoại thất về đêm"
-      },
-      "spa": {
-        "title": "Spa thư giãn"
-      },
-      "roomAmenities": {
-        "title": "Tiện ích trong phòng ngủ"
-      }
-    }
-  },
-  "booking": {
-    "pageTitle": "Hệ thống đặt phòng",
-    "pageSubtitle": "Trải nghiệm sự sang trọng và đặt phòng nghỉ dưỡng độc quyền của bạn một cách an toàn.",
-    "breadcrumb": "Đặt phòng",
-    "steps": {
-      "selectDate": "Chọn ngày",
-      "selectRoom": "Chọn phòng",
-      "guestInfo": "Thông tin khách",
-      "payment": "Thanh toán"
-    },
-    "widgetTitle": "1. Chọn ngày nhận và trả phòng",
-    "continue": "Tiếp tục"
-  },
-  "rooms": {
-    "pageTitle": "Các Loại Phòng Nghỉ",
-    "pageSubtitle": "Khám phá không gian nghỉ dưỡng đẳng cấp của chúng tôi",
-    "breadcrumb": "Phòng nghỉ",
-    "filterAll": "Tất cả",
-    "filterCapacity2": "Sức chứa: 2 người",
-    "filterCapacity4": "Sức chứa: 4 người",
-    "filterBedKing": "Loại giường: King",
-    "filterBedQueen": "Loại giường: Queen",
-    "viewDetails": "Xem chi tiết",
-    "deluxeSea": {
-      "title": "Phòng Deluxe Hướng Biển",
-      "price": "Từ 2.500.000 VNĐ / đêm"
-    },
-    "presidential": {
-      "title": "Suite Tổng Thống",
-      "price": "Từ 5.000.000 VNĐ / đêm"
-    },
-    "standard": {
-      "title": "Phòng Standard Cao Cấp",
-      "price": "Từ 1.800.000 VNĐ / đêm"
-    },
-    "family": {
-      "title": "Phòng Gia Đình Kết Nối",
-      "price": "Từ 3.500.000 VNĐ / đêm"
-    },
-    "penthouse": {
-      "title": "Penthouse Sang Trọng",
-      "price": "Từ 6.500.000 VNĐ / đêm"
-    },
-    "twin": {
-      "title": "Phòng Standard Twin",
-      "price": "Từ 1.500.000 VNĐ / đêm"
     }
   }
 }

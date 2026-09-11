@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (field.value && !emailRegex.test(field.value)) {
                     isValid = false;
                     field.style.borderColor = '#dc3545';
-                    alert('Vui lòng nhập địa chỉ email hợp lệ');
+                    alert('Please enter a valid email address');
                 }
             });
 
@@ -71,13 +71,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (field.value && !phoneRegex.test(field.value.replace(/\s/g, ''))) {
                     isValid = false;
                     field.style.borderColor = '#dc3545';
-                    alert('Vui lòng nhập số điện thoại hợp lệ (10-11 chữ số)');
+                    alert('Please enter a valid phone number (10-11 digits)');
                 }
             });
 
             if (!isValid) {
                 e.preventDefault();
-                alert('Vui lòng điền đầy đủ thông tin bắt buộc');
+                alert('Please fill in all required fields');
             }
         });
     });
@@ -90,7 +90,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Add animation on scroll
+    // Reveal-on-scroll: CSS (.reveal-item / .is-visible) drives the actual
+    // motion so prefers-reduced-motion is respected automatically.
     const observerOptions = {
         threshold: 0.1,
         rootMargin: '0px 0px -50px 0px'
@@ -99,18 +100,16 @@ document.addEventListener('DOMContentLoaded', function() {
     const observer = new IntersectionObserver(function(entries) {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                entry.target.style.opacity = '1';
-                entry.target.style.transform = 'translateY(0)';
+                entry.target.classList.add('is-visible');
+                observer.unobserve(entry.target);
             }
         });
     }, observerOptions);
 
     // Observe elements with animation classes
-    const animatedElements = document.querySelectorAll('.service-card, .feature-item, .news-card, .portfolio-item');
+    const animatedElements = document.querySelectorAll('.app-card, .value-item');
     animatedElements.forEach(el => {
-        el.style.opacity = '0';
-        el.style.transform = 'translateY(20px)';
-        el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+        el.classList.add('reveal-item');
         observer.observe(el);
     });
 });
